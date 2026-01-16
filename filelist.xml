@@ -3,5 +3,5 @@
   <!--
   <Text file="%ModDir%/Content/Texts/CastilianSpanish.xml" />
   -->
-  <Text file="%ModDir%/Content/Text/Latinamerican_Spanish_Afflictions.xml" />
+  <Text file="%ModDir%/Content/Texts/Latinamerican_Spanish_Afflictions.xml" />
 </contentpackage>
