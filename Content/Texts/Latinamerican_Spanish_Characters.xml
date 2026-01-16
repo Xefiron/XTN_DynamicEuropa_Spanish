@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Latinamerican Spanish" nowhitespace="false" translatedname="Español Latinoamericano">
+  <!-- CHARACTERS | PERSONAJES -->
+  <character.Lithomorph_Cassiterite>Litomorfo</character.Lithomorph_Cassiterite>
+  <character.Lithomorph_Chamosite>Litomorfo</character.Lithomorph_Chamosite>
+  <character.Lithomorph_Cryolite>Litomorfo</character.Lithomorph_Cryolite>
+  <character.Lithomorph_Galena>Litomorfo</character.Lithomorph_Galena>
+  <character.Lithomorph_Hydroxyapatite>Litomorfo</character.Lithomorph_Hydroxyapatite>
+  <character.Lithomorph_Pyromorphite>Litomorfo</character.Lithomorph_Pyromorphite>
+  <character.Lithomorph_Sphalerite>Litomorfo</character.Lithomorph_Sphalerite>
+  <character.Lithomorph_Sylvite>Litomorfo</character.Lithomorph_Sylvite>
+  <character.Lithomorph_Triphylite>Litomorfo</character.Lithomorph_Triphylite>
+  <character.Lithomorph>Litomorfo</character.Lithomorph>
+  <character.spineling_electric>Gran espinelante eléctrico</character.spineling_electric>
+  <charactername.kazuyakumo>Kazuya Kumo</charactername.kazuyakumo>
+  <charactername.captainsmith>John Smith</charactername.captainsmith>
+  <charactername.loyalcommissar>Comisario Separatista</charactername.loyalcommissar>
+  <charactername.jokster>Jokster</charactername.jokster>
+  <charactername.jokster1>Jokster</charactername.jokster1>
+  <charactername.frenseynomor>Fren Seynomor</charactername.frenseynomor>
+  <charactername.frenseynomor1>Fren Seynomor</charactername.frenseynomor1>
+  <charactername.noveva>Noveva</charactername.noveva>
+  <charactername.sadashikira>Sadashi Kira</charactername.sadashikira>
+  <charactername.sadashikira1>Sadashi Kira</charactername.sadashikira1>
+  <charactername.sadashikira2>Sadashi Kira</charactername.sadashikira2>
+  <!-- NPCS -->
+  <!-- newtext | nuevo texto -->
+  <Override>
+    <npctitle.piratecaptain>Capitán pirata</npctitle.piratecaptain>
+    <npctitle.piratecaptainlord>Señor pirata</npctitle.piratecaptainlord>
+    <npctitle.pirateannihilator>Aniquilador pirata</npctitle.pirateannihilator>
+    <npctitle.piratesecurityrecruit>Recluta pirata</npctitle.piratesecurityrecruit>
+    <npctitle.piratesecuritybrute>Bruto pirata</npctitle.piratesecuritybrute>
+  </Override>
+  <npctitle.partypiratecaptain>Capitán pirata "raver"</npctitle.partypiratecaptain>
+  <npctitle.partypiratecaptainlord>Señor pirata "raver"</npctitle.partypiratecaptainlord>
+  <npctitle.partypiratesecurityrecruit>Recluta pirata "raver"</npctitle.partypiratesecurityrecruit>
+  <npctitle.partypiratesecuritygunner>Artillero pirata "raver"</npctitle.partypiratesecuritygunner>
+  <npctitle.partypiratesecuritybrute>Bruto pirata "raver"</npctitle.partypiratesecuritybrute>
+  <npctitle.partypiratesecurityelite>Pirata de élite "raver"</npctitle.partypiratesecurityelite>
+  <npctitle.partypiratemechanicveteran>Técnico pirata "raver"</npctitle.partypiratemechanicveteran>
+  <npctitle.partypirateengineerveteran>Físico pirata "raver"</npctitle.partypirateengineerveteran>
+  <npctitle.partypiratemechanicrecruit>Mecánico pirata "raver"</npctitle.partypiratemechanicrecruit>
+  <npctitle.partypirateengineerrecruit>Ingeniero pirata "raver"</npctitle.partypirateengineerrecruit>
+  <!-- Nota del traductor: Un raver es quien participa de una Rave,
+       que es el nombre dado a una fiesta descontrolada con música electrónica y muchas luces.
+  -->
+  <!-- newtext | nuevo texto -->
+  <npctitle.outpostmanagerhusk>Diácono</npctitle.outpostmanagerhusk>
+  <npctitle.huskcultistsecurity>Templario</npctitle.huskcultistsecurity>
+  <npctitle.huskvip>Cardenal</npctitle.huskvip>
+  <npctitle.outposthuskdoctor>Cirujano</npctitle.outposthuskdoctor>
+  <npctitle.huskassassinationtarget>Científico Jefe</npctitle.huskassassinationtarget>
+  <npctitle.hireablehuskscientist>Científico de la Iglesia</npctitle.hireablehuskscientist>
+  <npctitle.hireablehusktemplar>Templario de la Iglesia</npctitle.hireablehusktemplar>
+  <npctitle.sergeantcoalition>Oficial de la Coalición</npctitle.sergeantcoalition>
+  <npctitle.sergeantseparatists>Oficial Separatista</npctitle.sergeantseparatists>
+  <npctitle.soldiercoalition>Soldado</npctitle.soldiercoalition>
+  <npctitle.tempsoldiercoalition>Soldado</npctitle.tempsoldiercoalition>
+  <npctitle.soldierseparatists>Rebelde</npctitle.soldierseparatists>
+  <npctitle.tempsoldierseparatists>Rebelde</npctitle.tempsoldierseparatists>
+  <npctitle.tempsoldierseparatists>Rebelde</npctitle.tempsoldierseparatists>
+  <npctitle.ransomtarget>Objetivo del rescate</npctitle.ransomtarget>
+  <character.Crawler_capture>Reptador escapado</character.Crawler_capture>
+  <charactername.scrapdealer>Saul Väger</charactername.scrapdealer>
+  <npctitle.sickpatient>Paciente</npctitle.sickpatient>
+  <character.orangeboy_escort>Objetivo de escolta</character.orangeboy_escort>
+  <character.Defensebot_defective>Bot defectuoso</character.Defensebot_defective>
+</infotext>
