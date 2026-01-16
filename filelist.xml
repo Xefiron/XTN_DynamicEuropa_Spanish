@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentpackage name="Dynamic Europa en Español" modversion="1.0.0" corepackage="False" gameversion="1.11.5.0">
+  <!--
   <Text file="%ModDir%/Content/Texts/CastilianSpanish.xml" />
-  <Text file="%ModDir%/Content/Texts/LatinamericanSpanish.xml" />
+  -->
+  <Text file="%ModDir%/Content/Text/Latinamerican_Spanish_Afflictions.xml" />
 </contentpackage>

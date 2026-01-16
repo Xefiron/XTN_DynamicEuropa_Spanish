@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Latinamerican Spanish" nowhitespace="false" translatedname="Español Latinoamericano">
+  <!-- Afflictions | Aflicciones -->
+  <afflictionname.temporarycrew>Tripulante Temporal</afflictionname.temporarycrew>
+  <afflictiondescription.temporarycrew.other>Se marchará de tu tripulación después de 6 horas desde el momento en que se une.</afflictiondescription.temporarycrew.other>
+  <afflictiondescription.temporarycrew.self>Estoy aquí para apoyar a esta tripulación durante 6 horas. Ni más ni menos.</afflictiondescription.temporarycrew.self>
+  <afflictionname.mysteriousdisease>Enfermedad Misteriosa</afflictionname.mysteriousdisease>
+  <afflictiondescription.mysteriousdisease.self>No te estás sintiendo bien, y no entiendes por qué.</afflictiondescription.mysteriousdisease.self>
+  <afflictiondescription.mysteriousdisease.others>El paciente está afligido por una enfermedad desconocida y contagiosa. Necesita atención médica.</afflictiondescription.mysteriousdisease.others>
+  <afflictionname.mysteriousdiseaseplayer>Malestar</afflictionname.mysteriousdiseaseplayer>
+  <afflictiondescription.mysteriousdiseaseplayer.self>Ahora también enfermaste. Intenta aislarte y aguantar.</afflictiondescription.mysteriousdiseaseplayer.self>
+  <afflictiondescription.mysteriousdiseaseplayer.others>La misteriosa enfermedad se ha propagado en la tripulación...</afflictiondescription.mysteriousdiseaseplayer.others>
+  <afflictionname.nastyscar>Cicatriz Desagradable</afflictionname.nastyscar>
+  <afflictiondescription.nastyscar.self>Una cicatriz con la forma de una Mantis, grabada en quienes se incorporen a una infame banda de piratas.</afflictiondescription.nastyscar.self>
+  <afflictiondescription.nastyscar.others>Descubres una peculiar cicatriz por debajo de la clavícula. Casi como una marca...</afflictiondescription.nastyscar.others>
+</infotext>
