@@ -142,54 +142,54 @@
   <eventtext.blockadealarm.breakin>¡No le dejen llegar a la compuerta!</eventtext.blockadealarm.breakin>
   <eventtext.blockadealarm.breakin>¡Tenemos un allanamiento!</eventtext.blockadealarm.breakin>
   <eventtext.blockadealarm.breakin>¡Disparen al intruso!</eventtext.blockadealarm.breakin>
-  <eventtext.openblockade.blockade>You've reached a blockade. The path to the next biome must be unlocked to proceed.</eventtext.openblockade.blockade>
-  <eventtext.openblockade.gotolever>Reach the control room to open the blockade</eventtext.openblockade.gotolever>
-  <eventtext.missionevent_killmonster_regional.c1>“I posted about an assignment earlier. Some fauna exclusive to this region is causing us massive trouble. I've sent all the details to your onboard navigation system, in case you're interested.”</eventtext.missionevent_killmonster_regional.c1>
-  <eventtext.missionevent_piratemission1.c1>“We received multiple reports about a pirate vessel causing trouble. We need you to get rid of them by any means.”</eventtext.missionevent_piratemission1.c1>
-  <eventtext.missionevent_piratemission2.c1>“We received multiple reports about a pirate vessel blasting music into the depths and luring more monsters close to our stations. We need you to get rid of them by any means.”</eventtext.missionevent_piratemission2.c1>
-  <eventtext.missionevent_piratemission3.c1>“We recently lost contact to some of our vessels. We believe they got attacked by a strange vessel that was reported lurking around these parts. We need you to get rid of it to hopefully prevent other vessels getting lost in the future.”</eventtext.missionevent_piratemission3.c1>
-  <eventtext.troubledengine.monitor>The status monitor is displaying a warning about the engine slowly breaking down. Better order a mechanic to take a look.</eventtext.troubledengine.monitor>
-  <eventtext.troubledengine.engine>The engine stopped working. Best to quickly get it back up and running.</eventtext.troubledengine.engine>
-  <eventtext.troubledengine.engine.success>You got the engine back up and running!</eventtext.troubledengine.engine.success>
-  <eventtext.troubledengine.engine.failure>The engine didn't start up. Try again?</eventtext.troubledengine.engine.failure>
-  <eventtext.troubledengine.engine.smack.failure>A part fell off. Surely nothing important... Just give it a bit of time and it'll probably start back up.</eventtext.troubledengine.engine.smack.failure>
-  <eventtext.option.useitem.wrench>Use Wrench</eventtext.option.useitem.wrench>
-  <eventtext.option.smack>Smack it!</eventtext.option.smack>
-  <eventtext.option.releasepressure>Release Pressure</eventtext.option.releasepressure>
-  <eventtext.option.dontbother>Let someone else deal with this...</eventtext.option.dontbother>
-  <eventtext.reactormalfunction.monitor>The status monitor is displaying a warning about a reactor malfunction. An engineer should probably take a look.</eventtext.reactormalfunction.monitor>
-  <eventtext.reactormalfunction.reactor>The automated control circuit seems to not be responding and the switch is stuck. Someone needs to manually operate the reactor!</eventtext.reactormalfunction.reactor>
-  <eventtext.reactormalfunction.reactor.success>You resolved the issue and the reactor is returning to normal values!</eventtext.reactormalfunction.reactor.success>
-  <eventtext.reactormalfunction.reactor.failure>You failed to release the pressure. Try again?</eventtext.reactormalfunction.reactor.failure>
-  <eventtext.reactormalfunction.reactor.smack.failure>A part fell off. Let's hope it's nothing important...</eventtext.reactormalfunction.reactor.smack.failure>
-  <eventtext.reactormalfunction.backtonormal>You hear a mechanical piece moving. Looks like the problem resolved itself somehow. The machine has a spirit of its own... </eventtext.reactormalfunction.backtonormal>
-  <eventtext.bartender.buy.coalitionbeer>Beer - Coalition Premium (10 MK)</eventtext.bartender.buy.coalitionbeer>
-  <eventtext.bartender.buy.separatistbeer>Beer - Jovian Force (10 MK)</eventtext.bartender.buy.separatistbeer>
-  <eventtext.bartender.buy.huskbeer>Beer - Liquid Ascension (59 MK)</eventtext.bartender.buy.huskbeer>
-  <eventtext.bartender.buy.clownbeer>Beer - Clown Juice (38 MK)</eventtext.bartender.buy.clownbeer>
-  <eventtext.bartender.buy.whiskey>Whiskey (125 MK)</eventtext.bartender.buy.whiskey>
-  <eventtext.bartender.buy.coalitionbeer.success.nodrunk>"A quite popular choice."</eventtext.bartender.buy.coalitionbeer.success.nodrunk>
-  <eventtext.bartender.buy.separatistbeer.success.nodrunk>"Ah yes, the underdog."</eventtext.bartender.buy.separatistbeer.success.nodrunk>
-  <eventtext.bartender.buy.huskbeer.success.nodrunk>"I see. Interesting choice. You might want to be careful with that stuff though... I heard it may contain parasites."</eventtext.bartender.buy.huskbeer.success.nodrunk>
-  <eventtext.bartender.buy.clownbeer.success.nodrunk>"One of those huh? Here you go."</eventtext.bartender.buy.clownbeer.success.nodrunk>
-  <eventtext.bartender.buy.whiskey.success.nodrunk>"Recommended by doctors all over Europa."</eventtext.bartender.buy.whiskey.success.nodrunk>
-  <eventtext.bartender.outofstock>"Sorry, got none of those left."</eventtext.bartender.outofstock>
-  <eventtext.shop.engineer.co.attack>"You're gonna pay today, Viva la revolution!"</eventtext.shop.engineer.co.attack>
-  <eventtext.manualtakeover.call.nostation>According to the tracker you're not even at a station! Don't waste our time!</eventtext.manualtakeover.call.nostation>
-  <eventtext.manualtakeover.call.church>You're at a station of the church of husk. We have no intend on interfering with them. Permission denied!</eventtext.manualtakeover.call.church>
-  <eventtext.manualtakeover.call.bandits>You're at a pirate station. We are not interested in that facility. Do whatever, but we will not claim the station!</eventtext.manualtakeover.call.bandits>
-  <eventtext.manualtakeover.call.coalition>You're calling the coalition over the military frequency...</eventtext.manualtakeover.call.coalition>
-  <eventtext.manualtakeover.call.separatists>You're calling the separatists over the military frequency...</eventtext.manualtakeover.call.separatists>
-  <eventtext.manualtakeover.call.playerresponse>We'd like to take over a station for you...</eventtext.manualtakeover.call.playerresponse>
-  <eventtext.manualtakeover.call.permissiongranted>"Understood. You can proceed, but be aware that we won't be able to pay you much nor are we able to assist you with this, but you can keep whatever equipment you find! So best of luck to you and your crew!"</eventtext.manualtakeover.call.permissiongranted>
-  <eventtext.manualtakeover.call.friendlystation>"It looks like you're docked to a friendly station. Over."</eventtext.manualtakeover.call.friendlystation>
-  <eventtext.manualtakeover.call.radiobroke>The radio broke! (The DE devs did a few changes to takeovers) \n\nYou should get a new one from the officer at a camp, base, fortress, colony or city outpost. </eventtext.manualtakeover.call.radiobroke>
-  <eventtext.takeover.success>You hear someone tune into your frequency: "Enough! We yield! The station is yours... Just please stop with the bloodshed!"</eventtext.takeover.success>
+  <eventtext.openblockade.blockade>Has llegado a un bloqueo. Debes encontrar la forma de desbloquear la ruta que te lleve al próximo bioma.</eventtext.openblockade.blockade>
+  <eventtext.openblockade.gotolever>Llega a la sala de control para desactivar el bloqueo.</eventtext.openblockade.gotolever>
+  <eventtext.missionevent_killmonster_regional.c1>“Yo publiqué un trabajo hace un momento. La fauna exclusiva de esta región está ocasionando un problema masivo. Envié todos los detalles al sistema de navegación de tu submarino, en caso qué estes interesado.”</eventtext.missionevent_killmonster_regional.c1>
+  <eventtext.missionevent_piratemission1.c1>“Recibimos multiples reportes sobre una nave pirata causando problemas. Necesitamos que te hagas cargo de ellos por todos los medios necesarios.”</eventtext.missionevent_piratemission1.c1>
+  <eventtext.missionevent_piratemission2.c1>“Recibimos multiples reportes sobre una nave pirata con música Rave a todo volumen en las profundidades, atrayendo a los monstruos más cerca de nuestras estaciones. Necesitamos que te hagas cargo de ellos por todos los medios necesarios.”</eventtext.missionevent_piratemission2.c1>
+  <eventtext.missionevent_piratemission3.c1>“Recientemente hemos perdido contacto con algunas de nuestras naves. Creemos que fueron atacados por una nave sin identificar que ha sido reportada merodendo la zona. Necesitamos que puedas encargarte de ellos, con la esperanza de prevenir la pérdida de más naves en el futuro.”</eventtext.missionevent_piratemission3.c1>
+  <eventtext.troubledengine.monitor>El monitor de estado muestra una señal de advertencia de daños acumulándose en el motor. Hay que dar la orden para que un mecánico heche un vistazo.</eventtext.troubledengine.monitor>
+  <eventtext.troubledengine.engine>El motor dejó de funcionar. Lo mejor será ponerlo en marcha cuanto antes.</eventtext.troubledengine.engine>
+  <eventtext.troubledengine.engine.success>¡Tienes el motor reparado y en marcha!</eventtext.troubledengine.engine.success>
+  <eventtext.troubledengine.engine.failure>El motor no arranca, ¿Intentamos otra vez?</eventtext.troubledengine.engine.failure>
+  <eventtext.troubledengine.engine.smack.failure>Se cayó una pieza. Seguramente nada importante... Solo démosle algo de tiempo y probablemente vuelva a estar en marcha.</eventtext.troubledengine.engine.smack.failure>
+  <eventtext.option.useitem.wrench>Usar llave inglesa</eventtext.option.useitem.wrench>
+  <eventtext.option.smack>¡Golpearlo!</eventtext.option.smack>
+  <eventtext.option.releasepressure>Liberar presión</eventtext.option.releasepressure>
+  <eventtext.option.dontbother>Dejar que alguien más lidie con esto...</eventtext.option.dontbother>
+  <eventtext.reactormalfunction.monitor>El monitor de estado muestra una señal de advertencia sobre una malfunción del reactor. Probablemente un ingeniero debería hechar un vistazo.</eventtext.reactormalfunction.monitor>
+  <eventtext.reactormalfunction.reactor>El circuito del sistema automático no esta respondiendo y el interruptor se atasco. ¡Alguien deberá operar manualmente el reactor!</eventtext.reactormalfunction.reactor>
+  <eventtext.reactormalfunction.reactor.success>¡Resolviste el problema y el reactor a recuperado su funcionamiento normal!</eventtext.reactormalfunction.reactor.success>
+  <eventtext.reactormalfunction.reactor.failure>Fallaste en liberar la presión. ¿Intentas nuevamente?</eventtext.reactormalfunction.reactor.failure>
+  <eventtext.reactormalfunction.reactor.smack.failure>Se cayó una pieza. Esperemos que no sea nada importante...</eventtext.reactormalfunction.reactor.smack.failure>
+  <eventtext.reactormalfunction.backtonormal>Oyes una pieza mecánica moverse. Luce como si el problema se hubiera resuelto por si mismo. La máquina tiene alma propia...</eventtext.reactormalfunction.backtonormal>
+  <eventtext.bartender.buy.coalitionbeer>Bebida alcohólica - Coalición Prémium (10 MK)</eventtext.bartender.buy.coalitionbeer>
+  <eventtext.bartender.buy.separatistbeer>Bebida alcohólica - Fuerza Joviana (10 MK)</eventtext.bartender.buy.separatistbeer>
+  <eventtext.bartender.buy.huskbeer>Bebida alcohólica - Ascensión líquida (59 MK)</eventtext.bartender.buy.huskbeer>
+  <eventtext.bartender.buy.clownbeer>Bebida alcohólica - Jugo de payaso (38 MK)</eventtext.bartender.buy.clownbeer>
+  <eventtext.bartender.buy.whiskey>Whisky (125 MK)</eventtext.bartender.buy.whiskey>
+  <eventtext.bartender.buy.coalitionbeer.success.nodrunk>"Una elección bastante popular."</eventtext.bartender.buy.coalitionbeer.success.nodrunk>
+  <eventtext.bartender.buy.separatistbeer.success.nodrunk>"Ah, sí, el desvalido."</eventtext.bartender.buy.separatistbeer.success.nodrunk>
+  <eventtext.bartender.buy.huskbeer.success.nodrunk>"Ya veo. Una eleción interesante. Aunque quizás quieras tener cuidado con esa cosa... Oí que podría contener parásitos."</eventtext.bartender.buy.huskbeer.success.nodrunk>
+  <eventtext.bartender.buy.clownbeer.success.nodrunk>"¿Uno de esos, eh? Aquí tienes."</eventtext.bartender.buy.clownbeer.success.nodrunk>
+  <eventtext.bartender.buy.whiskey.success.nodrunk>"Recomendado por doctores de toda Europa."</eventtext.bartender.buy.whiskey.success.nodrunk>
+  <eventtext.bartender.outofstock>"Lo lamento, no nos quedan de esos."</eventtext.bartender.outofstock>
+  <eventtext.shop.engineer.co.attack>"Hoy lo vas a pagar, ¡Viva la revolución!"</eventtext.shop.engineer.co.attack>
+  <eventtext.manualtakeover.call.nostation>Según el rastreador, ¡Ni siquiera estás en un asentamiento! ¡No nos hagas perder tiempo!</eventtext.manualtakeover.call.nostation>
+  <eventtext.manualtakeover.call.church>Estás en un puesto de la Iglesia de la Vaina. No tenemos intención de interactuar con ellos. ¡Permiso denegado!</eventtext.manualtakeover.call.church>
+  <eventtext.manualtakeover.call.bandits>Estás en una estación de los piratas. No estamos interesados en esa instalación. Haz lo que quieras, ¡pero no vamos a reclamar esa estación!</eventtext.manualtakeover.call.bandits>
+  <eventtext.manualtakeover.call.coalition>Estás llamando a la Coalición a través de una frecuencia de uso militar...</eventtext.manualtakeover.call.coalition>
+  <eventtext.manualtakeover.call.separatists>Estás llamando a los Separatistas a través de una frecuencia de uso militar...</eventtext.manualtakeover.call.separatists>
+  <eventtext.manualtakeover.call.playerresponse>Nos gustaría hacernos cargo de esa estación por usted...</eventtext.manualtakeover.call.playerresponse>
+  <eventtext.manualtakeover.call.permissiongranted>"Entendido. Puedes proceder, pero tenga en consciencia que no podremos pagarle mucho ni mucho menos podremos ayudarlo con esto, ¡Pero puedes quedarte con todo el equipamiento que encuentres, así que la mejor de las suertes para tí y tu tripulación!"</eventtext.manualtakeover.call.permissiongranted>
+  <eventtext.manualtakeover.call.friendlystation>"Parece que estás acoplado a una estación amiga. Cambio."</eventtext.manualtakeover.call.friendlystation>
+  <eventtext.manualtakeover.call.radiobroke>¡La radio se rompió!\n\nDeberías conseguir una nueva de un Oficial en un campamento, base, fortaleza, colonia o de una ciudad asentamiento.</eventtext.manualtakeover.call.radiobroke>
+  <eventtext.takeover.success>Escuchas a alguien sintonizar en tu frecuencia: "¡Suficiente! ¡Nos rendímos! La estación es tuya... ¡Por favor solo detén el derramamiento de sangre!"</eventtext.takeover.success>
   <!-- <eventtext.takeover.success.info>Leave the station to receive your reward.</eventtext.takeover.success.info> -->
   <!-- <eventtext.takeover.success.reward>You're receiving a call from the seargent: "Good work! The station is now under our command! We've delivered a little gift to your submarine. Go check it out!"</eventtext.takeover.success.reward> -->
   <!-- <eventtext.takeover.success.reward.check>You notice a crate. Upon opening it you find a military radio with a note: \n"Use this to call into our military frequency and inform us about any other takeovers!"</eventtext.takeover.success.reward.check> -->
-  <eventtext.takeover.complete>"Great work! The station is now ours. We'll send some of our people there. It should be back up and running under our command in no time! For now you should leave the station. I'm sending you your reward..."</eventtext.takeover.complete>
-  <eventtext.takeover.attack>"We arrived! Make sure your weapons are loaded and safety is off! Let's do this!". \n\nThere's no turning back now: You're at war.</eventtext.takeover.attack>
+  <eventtext.takeover.complete>"¡Gran trabajo! Ahora la estación es nuestra. Enviaremos algunas personas hasta allá. ¡Debería estar reparado y en funcionamiento bajo nuestro mando en poco tiempo! Por ahora, abandona la estación. Te estoy transfiriendo tu recompensa..."</eventtext.takeover.complete>
+  <eventtext.takeover.attack>"¡Hemos arribado! ¡Asegurense de tener sus armas cargadas y listas!, ¡A por ellos!.\n\nYa no hay vuelta atrás: Estás en guerra.</eventtext.takeover.attack>
   <eventtext.gettakeovermission.coalition.highrep.askingforhelp>"Ah good to see you! Your crew is doing great! We planned another attack. Would your crew mind lending a hand at taking over another separatist station nearby?"</eventtext.gettakeovermission.coalition.highrep.askingforhelp>
   <eventtext.gettakeovermission.coalition.medrep.askingforhelp>"Since your crew is doing good, we'd like to ask if your crew could aid us in another attack on a separatist station nearby?"</eventtext.gettakeovermission.coalition.medrep.askingforhelp>
   <eventtext.gettakeovermission.coalition.lowrep.askingforhelp>"We have noticed your efforts to fight the Separatists and would like to give your crew a chance to prove you're on the side of the law. Aid us in an attack on a rogue Separatist outpost and you'll be working with our top men soon enough."</eventtext.gettakeovermission.coalition.lowrep.askingforhelp>
