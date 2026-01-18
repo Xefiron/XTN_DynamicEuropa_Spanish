@@ -163,10 +163,10 @@
   <eventtext.reactormalfunction.reactor.failure>Fallaste en liberar la presión. ¿Intentas nuevamente?</eventtext.reactormalfunction.reactor.failure>
   <eventtext.reactormalfunction.reactor.smack.failure>Se cayó una pieza. Esperemos que no sea nada importante...</eventtext.reactormalfunction.reactor.smack.failure>
   <eventtext.reactormalfunction.backtonormal>Oyes una pieza mecánica moverse. Luce como si el problema se hubiera resuelto por si mismo. La máquina tiene alma propia...</eventtext.reactormalfunction.backtonormal>
-  <eventtext.bartender.buy.coalitionbeer>Bebida alcohólica - Coalición Prémium (10 MK)</eventtext.bartender.buy.coalitionbeer>
-  <eventtext.bartender.buy.separatistbeer>Bebida alcohólica - Fuerza Joviana (10 MK)</eventtext.bartender.buy.separatistbeer>
-  <eventtext.bartender.buy.huskbeer>Bebida alcohólica - Ascensión líquida (59 MK)</eventtext.bartender.buy.huskbeer>
-  <eventtext.bartender.buy.clownbeer>Bebida alcohólica - Jugo de payaso (38 MK)</eventtext.bartender.buy.clownbeer>
+  <eventtext.bartender.buy.coalitionbeer>Cerveza - Coalición Prémium (10 MK)</eventtext.bartender.buy.coalitionbeer>
+  <eventtext.bartender.buy.separatistbeer>Cerveza - Fuerza Joviana (10 MK)</eventtext.bartender.buy.separatistbeer>
+  <eventtext.bartender.buy.huskbeer>Cerveza - Ascensión líquida (59 MK)</eventtext.bartender.buy.huskbeer>
+  <eventtext.bartender.buy.clownbeer>Cerveza - Jugo de payaso (38 MK)</eventtext.bartender.buy.clownbeer>
   <eventtext.bartender.buy.whiskey>Whisky (125 MK)</eventtext.bartender.buy.whiskey>
   <eventtext.bartender.buy.coalitionbeer.success.nodrunk>"Una elección bastante popular."</eventtext.bartender.buy.coalitionbeer.success.nodrunk>
   <eventtext.bartender.buy.separatistbeer.success.nodrunk>"Ah, sí, el desvalido."</eventtext.bartender.buy.separatistbeer.success.nodrunk>
@@ -190,115 +190,115 @@
   <!-- <eventtext.takeover.success.reward.check>You notice a crate. Upon opening it you find a military radio with a note: \n"Use this to call into our military frequency and inform us about any other takeovers!"</eventtext.takeover.success.reward.check> -->
   <eventtext.takeover.complete>"¡Gran trabajo! Ahora la estación es nuestra. Enviaremos algunas personas hasta allá. ¡Debería estar reparado y en funcionamiento bajo nuestro mando en poco tiempo! Por ahora, abandona la estación. Te estoy transfiriendo tu recompensa..."</eventtext.takeover.complete>
   <eventtext.takeover.attack>"¡Hemos arribado! ¡Asegurense de tener sus armas cargadas y listas!, ¡A por ellos!.\n\nYa no hay vuelta atrás: Estás en guerra.</eventtext.takeover.attack>
-  <eventtext.gettakeovermission.coalition.highrep.askingforhelp>"Ah good to see you! Your crew is doing great! We planned another attack. Would your crew mind lending a hand at taking over another separatist station nearby?"</eventtext.gettakeovermission.coalition.highrep.askingforhelp>
-  <eventtext.gettakeovermission.coalition.medrep.askingforhelp>"Since your crew is doing good, we'd like to ask if your crew could aid us in another attack on a separatist station nearby?"</eventtext.gettakeovermission.coalition.medrep.askingforhelp>
-  <eventtext.gettakeovermission.coalition.lowrep.askingforhelp>"We have noticed your efforts to fight the Separatists and would like to give your crew a chance to prove you're on the side of the law. Aid us in an attack on a rogue Separatist outpost and you'll be working with our top men soon enough."</eventtext.gettakeovermission.coalition.lowrep.askingforhelp>
-  <eventtext.gettakeovermission.separatists.highrep.askingforhelp>"Ah good to see you! Your crew is doing great! We planned another attack. Would your crew mind lending a hand at taking over another coalition station nearby?"</eventtext.gettakeovermission.separatists.highrep.askingforhelp>
-  <eventtext.gettakeovermission.separatists.medrep.askingforhelp>"Since your crew is doing good, we'd like to ask if your crew could aid us in another attack on a coalition station nearby?"</eventtext.gettakeovermission.separatists.medrep.askingforhelp>
-  <eventtext.gettakeovermission.separatists.lowrep.askingforhelp>"We have noticed your efforts to fight the Coalition and would like to give your crew a chance to prove you're a friend of the revolution. Aid us in liberating a Coalition outpost and help us in freeing the people of Europa."</eventtext.gettakeovermission.separatists.lowrep.askingforhelp>
-  <eventtext.gettakeovermission.option.accept>"We would like to help. Which station is our target?"</eventtext.gettakeovermission.option.accept>
-  <eventtext.gettakeovermission.option.accept.answer>"Here, I'll mark the place on your map..."</eventtext.gettakeovermission.option.accept.answer>
-  <eventtext.gettakeovermission.option.accept.addcrew>"Since you've helped us in the past, we can spare a few soldiers to assist you for the assault. Just make sure you don't take to long to reach the outpost."</eventtext.gettakeovermission.option.accept.addcrew>
-  <eventtext.gettakeovermission.option.accept.nocrew>"You will be on your own out there. Good luck."</eventtext.gettakeovermission.option.accept.nocrew>
-  <eventtext.gettakeovermission.option.accept.answer.acceptcrew>"Some backup is always appreciated."</eventtext.gettakeovermission.option.accept.answer.acceptcrew>
-  <eventtext.gettakeovermission.option.accept.answer.acceptcrew.answer>"Good luck!"</eventtext.gettakeovermission.option.accept.answer.acceptcrew.answer>
-  <eventtext.gettakeovermission.option.accept.answer.declinecrew>"That won't be necessary. Please order your soldiers to stay."</eventtext.gettakeovermission.option.accept.answer.declinecrew>
-  <eventtext.gettakeovermission.option.accept.answer.declinecrew.answer>"You seem quite determined... Alright, I'll order them to stay put. Good luck!"</eventtext.gettakeovermission.option.accept.answer.declinecrew.answer>
-  <eventtext.gettakeovermission.option.decline>"Sorry, but we currently got other business to take care of first."</eventtext.gettakeovermission.option.decline>
-  <eventtext.gettakeovermission.option.decline.answer>"Alright. Let me know when you dealt with your business or if you change your mind."</eventtext.gettakeovermission.option.decline.answer>
-  <eventtext.gettakeovermission.giveradio.coalition>"We've been informed you've successfully pacified the rebel outpost." The sergeant hands you a communication device. \n\n"This radio is tuned to our military frequency. If you find yourself docked to an enemy station, call in. We won't be able to assist with reinforcements, but we'll send a crew to take over the place after you deal with the occupants."</eventtext.gettakeovermission.giveradio.coalition>
-  <eventtext.gettakeovermission.giveradio.separatists>"We've been informed you've successfully freed the outpost from coalition's grasp." The sergeant hands you a communication device. \n\n"This radio is tuned to our military frequency. If you find yourself docked to an enemy station, call in. We won't be able to assist with reinforcements, but we'll send a crew to take over the place after you deal with the occupants."</eventtext.gettakeovermission.giveradio.separatists>
-  <eventtext.gettakeovermission.newradio>"According to the tracker you've lost the military radio. Here's another one, but take good care of it! Those things don't come cheap..."</eventtext.gettakeovermission.newradio>
-  <eventtext.gettakeovermission.general.isactive>"We still have to take over the last station your crew was sent to before we can plan an attack on the next one."</eventtext.gettakeovermission.general.isactive>
-  <eventtext.piratemissionbroadcast.receive>"Yarhahar, what do we have here? Me eyes spied some good loot! Hope ye came prepared..."</eventtext.piratemissionbroadcast.receive>
-  <eventtext.cocargobroadcast.receive>You're receiving a transmission from another vessel. What do you want to do?</eventtext.cocargobroadcast.receive>
-  <eventtext.cocargobroadcast.receive.accept.answer>"This is CO-CT-43. State your business in this area immediately!"</eventtext.cocargobroadcast.receive.accept.answer>
-  <eventtext.cocargobroadcast.receive.accept.answer.truth>(Tell the truth) "We're here to rob you obviously... Get ready to be boarded!"</eventtext.cocargobroadcast.receive.accept.answer.truth>
-  <eventtext.cocargobroadcast.receive.accept.answer.truth.answer>"At least your honest... *EVERYONE GET TO YOUR STATIONS! WE GOT HOSTILES INCOMING*"</eventtext.cocargobroadcast.receive.accept.answer.truth.answer>
-  <eventtext.cocargobroadcast.receive.accept.answer.lie>(Tell a lie) "We have official orders from Admiral Edward to check your cargo for potential stowaways. Please cooperate with us and stop your submarine."</eventtext.cocargobroadcast.receive.accept.answer.lie>
-  <eventtext.cocargobroadcast.receive.accept.answer.lie.success>"Oh Admiral Edward? Yes we'll stop our vessel immediately! Welcome on board!"</eventtext.cocargobroadcast.receive.accept.answer.lie.success>
-  <eventtext.cocargobroadcast.receive.accept.answer.lie.failure>"How stupid do you think we are? There is no Admiral Edward! Whoever you are, we suggest to turn around and get out of our way or face the consequences."</eventtext.cocargobroadcast.receive.accept.answer.lie.failure>
-  <eventtext.factionseparatist.meltdown>The reactor is buckling and whining with pressure, what do you do?</eventtext.factionseparatist.meltdown>
-  <eventtext.factionseparatist.meltdown.option.pressure>Release Pressure</eventtext.factionseparatist.meltdown.option.pressure>
-  <eventtext.factionseparatist.meltdown.option.pressure.success>The reactor shudders, but you hear the steam whistle out of the core. It seems someone wired something to it...</eventtext.factionseparatist.meltdown.option.pressure.success>
-  <eventtext.factionseparatist.meltdown.option.pressure.failure>The reactor gurgles as the steam swells the protective hoses leaving the core, it seems a qualified engineer is required.</eventtext.factionseparatist.meltdown.option.pressure.failure>
-  <eventtext.factionseparatist.smellofsulfur>The smell of sulfur burns your nostrils...</eventtext.factionseparatist.smellofsulfur>
-  <eventtext.factionseparatist.hiddenstash>Hidden in the walls, you notice a small metal box glimmers.</eventtext.factionseparatist.hiddenstash>
-  <eventtext.factionseparatist.hiddenstash.take>You find a note stashed in a detonator with detailed instructions on what needs to be done for democracy.</eventtext.factionseparatist.hiddenstash.take>
-  <eventtext.bartender.offerdrink.nodrunk>"Looks like you could use a drink."</eventtext.bartender.offerdrink.nodrunk>
-  <eventtext.bartender.offerdrink.slightdrunk>"Looks like you could use another drink."</eventtext.bartender.offerdrink.slightdrunk>
-  <eventtext.bartender.offerdrink.drunk>"Another round?"</eventtext.bartender.offerdrink.drunk>
-  <eventtext.bartender.buy.rum>Rum (150 MK)</eventtext.bartender.buy.rum>
-  <eventtext.bartender.buy.rum.success.nodrunk>"Artificial sweetener only, sorry."</eventtext.bartender.buy.rum.success.nodrunk>
-  <eventtext.bartender.buy.rum.success.slightdrunk>"Still got more were that came from."</eventtext.bartender.buy.rum.success.slightdrunk>
-  <eventtext.bartender.buy.rum.success.drunk>"Let me see you down this one next!"</eventtext.bartender.buy.rum.success.drunk>
-  <eventtext.bartender.buy.rum.failure>"We only hold tabs for the locals, bring me some money first."</eventtext.bartender.buy.rum.failure>
-  <eventtext.bartender.tip>Tip and Leave (50 MK)</eventtext.bartender.tip>
-  <eventtext.bartender.tip.success>"I will trade you a tip for a tip; check out this signal once you undock, it might be worth something."</eventtext.bartender.tip.success>
-  <eventtext.bartender.tip.failure>"I wish compliments paid the bills man, thanks anyway."</eventtext.bartender.tip.failure>
-  <eventtext.pirateoutpostevent>A pirate has stopped and is looking at you like he is waiting for you to do something. What will you do?</eventtext.pirateoutpostevent>
-  <eventtext.pirateoutpostevent.option.ignore>Keep walking.</eventtext.pirateoutpostevent.option.ignore>
-  <eventtext.pirateoutpostevent.option.ignore.answer>You don't care and go on with your business.</eventtext.pirateoutpostevent.option.ignore.answer>
-  <eventtext.pirateoutpostevent.option.ignore.answer.response>You hear someone calling out: "Hey wait a second!"</eventtext.pirateoutpostevent.option.ignore.answer.response>
-  <eventtext.pirateoutpostevent.option.attack>Attack (Destroy the Pirate Outpost)</eventtext.pirateoutpostevent.option.attack>
-  <eventtext.pirateoutpostevent.option.attack.answer>"I really don't like the looks of you filthy pirate scum... Time for pest control!"</eventtext.pirateoutpostevent.option.attack.answer>
-  <eventtext.pirateoutpostevent.option.attack2>Rip 'n' Tear (Destroy the Pirate Outpost)</eventtext.pirateoutpostevent.option.attack2>
-  <eventtext.pirateoutpostevent.option.attack2.answer>"It's time to send you all to hell!"</eventtext.pirateoutpostevent.option.attack2.answer>
-  <eventtext.commsrelay.piratehaven>The station is trying to establish a connection...</eventtext.commsrelay.piratehaven>
-  <eventtext.commsrelay.piratehaven.answer>"Hey! Are ye stupid? Thought we don't check who's dockin'? Well think again asshole! Y'all are with the coalition! Don't ye even think about settin' foot on this outpost or ye'll regret it, dickheads! Get lost!"</eventtext.commsrelay.piratehaven.answer>
-  <eventtext.option.accept>Accept</eventtext.option.accept>
-  <eventtext.option.listen>Listen</eventtext.option.listen>
-  <eventtext.option.investigate>Investigate</eventtext.option.investigate>
-  <eventtext.option.decline>Decline</eventtext.option.decline>
-  <eventtext.option.ignore>Ignore</eventtext.option.ignore>
-  <eventtext.option.leave>Leave</eventtext.option.leave>
-  <eventtext.option.nevermind>Nevermind</eventtext.option.nevermind>
-  <eventtext.general.decline>"Not right now."</eventtext.general.decline>
-  <eventtext.commsrelay.monster>You are picking up a strange radio signal, it might be worth investigating...</eventtext.commsrelay.monster>
-  <eventtext.commsrelay.monster.answer>Haunting howls echo off the hull, something must be emitting these strange signals.</eventtext.commsrelay.monster.answer>
-  <eventtext.commsrelay.monster.answer>Screeching shrills send shivers down your spine, something must be emitting these strange signals.</eventtext.commsrelay.monster.answer>
-  <eventtext.commsrelay.wreck>You are picking up an automated distress signal, it might be worth investigating...</eventtext.commsrelay.wreck>
-  <eventtext.commsrelay.wreck.answer>You're receiving an SOS broadcast from somewhere near your current location.</eventtext.commsrelay.wreck.answer>
-  <eventtext.commsrelay.ruin>You're picking up an alien signal, it might be worth investigating...</eventtext.commsrelay.ruin>
-  <eventtext.commsrelay.ruin.answer>An eerie whirring whistle awakens a deep fear, something must be emitting these strange signals.</eventtext.commsrelay.ruin.answer>
-  <eventtext.commsrelay.closetosignal>The strange radio signal grows stronger, it must be nearby...</eventtext.commsrelay.closetosignal>
-  <eventtext.commsrelay.generic.decline>"We don't have time for this now."</eventtext.commsrelay.generic.decline>
-  <eventtext.factionstowaway.separatist>A rugged freedom fighter leaps out of the crate, all while waving a firearm wildly.</eventtext.factionstowaway.separatist>
-  <eventtext.factionstowaway.coalition.good>It appears this is a missplaced shipment of another captains items. Nice!</eventtext.factionstowaway.coalition.good>
-  <eventtext.factionstowaway.coalition.bad>The crate contained a small letter with a coalition seal. It contains a fine, tough luck.</eventtext.factionstowaway.coalition.bad>
-  <eventtext.factionstowaway.cultist>The stench of rotting flesh is followed by a rusted diving suit starting to stand up out of the box.</eventtext.factionstowaway.cultist>
-  <eventtext.factionstowaway.clown>A dastardly grinning harlequin greets your gaze with a smile, drool drips from under his mask.</eventtext.factionstowaway.clown>
-  <eventtext.cocivtransport.interact>You approach a seemingly scared civilian. What will you do?</eventtext.cocivtransport.interact>
-  <eventtext.cocivtransport.option.rob>"You either hand over all your money quickly or you'll not walk out of here alive!"</eventtext.cocivtransport.option.rob>
-  <eventtext.cocivtransport.option.rob.answer>"Alright alright... That's all I have!"</eventtext.cocivtransport.option.rob.answer>
-  <eventtext.cocivtransport.option.execute>"Any last words?" (Execute)</eventtext.cocivtransport.option.execute>
-  <eventtext.cocivtransport.option.execute.answer>"No no no no please wai..."</eventtext.cocivtransport.option.execute.answer>
-  <eventtext.cocivtransport.option.hire>"Join us or die like the others!"</eventtext.cocivtransport.option.hire>
-  <eventtext.cocivtransport.option.hire.success>"Ok ok! I'll do anything, but please don't hurt me!"</eventtext.cocivtransport.option.hire.success>
-  <eventtext.cocivtransport.option.hire.failure>"I'd rather die than join some filthy pirates!"</eventtext.cocivtransport.option.hire.failure>
-  <eventtext.jobboardde.interact>A collection of fliers dot the wall, each with a reward. Which one do you pick up?</eventtext.jobboardde.interact>
-  <eventtext.jobboardde.option.piratemission>Pirate Bounty</eventtext.jobboardde.option.piratemission>
-  <eventtext.jobboardde.option.piratemission.info>-BOUNTIES AVAILABLE FOR LOCAL PIRATE HUNTERS-</eventtext.jobboardde.option.piratemission.info>
-  <eventtext.jobboardde.option.piratemission.accept>You think to yourself: "The coalition really needs people to do their dirty work anonymously."</eventtext.jobboardde.option.piratemission.accept>
-  <eventtext.jobboardde.option.monstermission>Fauna Removal</eventtext.jobboardde.option.monstermission>
-  <eventtext.jobboardde.option.monstermission.info>-LOCAL FAUNA CAUSING HAVOC - WE PAY FOR THEIR DEMISE-</eventtext.jobboardde.option.monstermission.info>
-  <eventtext.jobboardde.option.monstermission.accept>You think to yourself: "Someone really needs to clean out these dangerous critters."</eventtext.jobboardde.option.monstermission.accept>
-  <eventtext.jobboardde.option.miningmission>Mining Mission</eventtext.jobboardde.option.miningmission>
-  <eventtext.jobboardde.option.miningmission.info>-LOCAL CAVE MIGHT CONTAIN MINERAL DEPOSITS - WE PAY FOR PROOF OF THEIR EXISTENCE-</eventtext.jobboardde.option.miningmission.info>
-  <eventtext.jobboardde.option.miningmission.accept>You think to yourself: "A bit of honest mining work, what could go wrong?"</eventtext.jobboardde.option.miningmission.accept>
-  <eventtext.jobboardde.option.cargomission>Cargo Hauling</eventtext.jobboardde.option.cargomission>
-  <eventtext.jobboardde.option.cargomission.info>-SKIPPERS REQUIRED FOR ICE COLD TRUCKING-</eventtext.jobboardde.option.cargomission.info>
-  <eventtext.jobboardde.option.cargomission.accept>You think to yourself: "To be quite frank, I don’t give two shits about any speed limits!"</eventtext.jobboardde.option.cargomission.accept>
-  <eventtext.jobboardde.option.salvagemission>Salvage Loot</eventtext.jobboardde.option.salvagemission>
-  <eventtext.jobboardde.option.salvagemission.info>-A SIGNAL APPEARED IN A LOCAL CAVE - WE PAY ANYONE WHO INVESTIGATES AND RETRIEVES WHAT THEY FIND-</eventtext.jobboardde.option.salvagemission.info>
-  <eventtext.jobboardde.option.salvagemission.accept>You think to yourself: "I am sure there will be something to scrap down there!"</eventtext.jobboardde.option.salvagemission.accept>
-  <eventtext.shop.engineer.interact>"I have some spare materials here, looking to buy? You may choose only 1 though!"</eventtext.shop.engineer.interact>
-  <eventtext.shop.engineer.option.fuelrod>4x Fuel Rod (900 Mk)</eventtext.shop.engineer.option.fuelrod>
-  <eventtext.shop.engineer.option.fuelrod.buy.success>"Here some extra fuel for you."</eventtext.shop.engineer.option.fuelrod.buy.success>
-  <eventtext.shop.engineer.option.fuelrod.buy.failure>"Sorry, I'm not doing handouts."</eventtext.shop.engineer.option.fuelrod.buy.failure>
-  <eventtext.shop.engineer.option.fpga>2x FPGA Circuits (250 Mk)</eventtext.shop.engineer.option.fpga>
-  <eventtext.shop.engineer.option.fpga.buy.success>"You can smell the fabricator still on it."</eventtext.shop.engineer.option.fpga.buy.success>
-  <eventtext.shop.engineer.option.fpga.buy.failure>"You know these cost money right?"</eventtext.shop.engineer.option.fpga.buy.failure>
+  <eventtext.gettakeovermission.coalition.highrep.askingforhelp>"¡Que bueno verte! ¡Tu tripulación lo está haciendo genial! Planeamos realizar otro ataque. ¿Te importaría echarnos una mano con tu tripulación para apoderarnos de otra estación separatista?"</eventtext.gettakeovermission.coalition.highrep.askingforhelp>
+  <eventtext.gettakeovermission.coalition.medrep.askingforhelp>"Considerando el buen trabajo hecho por tu tripulación, Queremos preguntarte si, ¿Puede tu tripulación ayudarnos en otro ataque a una estación separatista?"</eventtext.gettakeovermission.coalition.medrep.askingforhelp>
+  <eventtext.gettakeovermission.coalition.lowrep.askingforhelp>"Notamos tus esfuerzos en combatir Separatistas y me gustaría darle a tu tripulación una oportunidad para demostrar que están del lado de la ley. Ayúdanos en un ataque a una estación Separatista rebelde y muy pronto trabajarás junto a nuestros mejores hombres."</eventtext.gettakeovermission.coalition.lowrep.askingforhelp>
+  <eventtext.gettakeovermission.separatists.highrep.askingforhelp>"¡Que bueno verte! ¡Tu tripulación lo está haciendo genial! Planeamos realizar otro ataque. ¿Te importaría echarnos una mano con tu tripulación para apoderarnos de otra estación de la Coalición?"</eventtext.gettakeovermission.separatists.highrep.askingforhelp>
+  <eventtext.gettakeovermission.separatists.medrep.askingforhelp>"Considerando el buen trabajo hecho por tu tripulación, Queremos preguntarte si, ¿Puede tu tripulación ayudarnos en otro ataque a una estación de la Coalición?"</eventtext.gettakeovermission.separatists.medrep.askingforhelp>
+  <eventtext.gettakeovermission.separatists.lowrep.askingforhelp>"Notamos tus esfuerzos en combatir a la Coalición y me gustaría darle a tu tripulación una oportunidad para demostrar que eres un amigo de la revolución. Ayúdanos a librar a un asentamiento cercano de la Coalición y a la libertad de la gente de Europa."</eventtext.gettakeovermission.separatists.lowrep.askingforhelp>
+  <eventtext.gettakeovermission.option.accept>"Nos gustaría ayudar, ¿Cuál asentamiento es nuestro objetivo?"</eventtext.gettakeovermission.option.accept>
+  <eventtext.gettakeovermission.option.accept.answer>"Aquí, he marcado el lugar en tu mapa..."</eventtext.gettakeovermission.option.accept.answer>
+  <eventtext.gettakeovermission.option.accept.addcrew>"Dado que ya nos ayudaste en el pasado algunos de nuestros soldados te asistirán en el asalto. Solo asegúrate de no tardar demasiado en llegar al puesto de avanzada."</eventtext.gettakeovermission.option.accept.addcrew>
+  <eventtext.gettakeovermission.option.accept.nocrew>"Están por su cuenta en esto. Buena suerte."</eventtext.gettakeovermission.option.accept.nocrew>
+  <eventtext.gettakeovermission.option.accept.answer.acceptcrew>"Unos refuerzos siempre vienen bien."</eventtext.gettakeovermission.option.accept.answer.acceptcrew>
+  <eventtext.gettakeovermission.option.accept.answer.acceptcrew.answer>"¡Buena suerte!"</eventtext.gettakeovermission.option.accept.answer.acceptcrew.answer>
+  <eventtext.gettakeovermission.option.accept.answer.declinecrew>"No será necesario. Ordénele a sus soldados que se queden."</eventtext.gettakeovermission.option.accept.answer.declinecrew>
+  <eventtext.gettakeovermission.option.accept.answer.declinecrew.answer>"Pareces bastante decidido... Muy bien, mis hombres se quedarán quietos. ¡Buena suerte!"</eventtext.gettakeovermission.option.accept.answer.declinecrew.answer>
+  <eventtext.gettakeovermission.option.decline>"Lo siento, pero tenemos otros asuntos de los que encargarnos primero."</eventtext.gettakeovermission.option.decline>
+  <eventtext.gettakeovermission.option.decline.answer>"Está bien. Hazme saber cuando te hayas encargado de tus asuntos o si cambias de opinión."</eventtext.gettakeovermission.option.decline.answer>
+  <eventtext.gettakeovermission.giveradio.coalition>"Nos han informado de su éxito en pacificar la estación rebelde." El Sargento te entrega un dispositivo de comunicación.\n\n"Esta radio está sincronizada con nuestra frecuencia militar. Si atracas en una estación enemiga, llámanos. No podemos mandar refuerzos, pero enviarémos una tripualción para hacerse cargo del lugar una vez que te deshagas de los ocupantes."</eventtext.gettakeovermission.giveradio.coalition>
+  <eventtext.gettakeovermission.giveradio.separatists>"Nos han informado de su éxito en liberar la estación de las garras de la coalición." El Sargento te entrega un dispositivo de comunicación.\n\n"Esta radio está sincronizada con nuestra frecuencia militar. Si atracas en una estación enemiga, llámanos. No podemos mandar refuerzos, pero enviarémos una tripualción para hacerse cargo del lugar una vez que te deshagas de los ocupantes."</eventtext.gettakeovermission.giveradio.separatists>
+  <eventtext.gettakeovermission.newradio>"Según el rastreador has perdido la radio militar. Aquí tienes otra, ¡pero cuídala bien! Estas cosas no son baratas..."</eventtext.gettakeovermission.newradio>
+  <eventtext.gettakeovermission.general.isactive>"Todavía tenemos que tomar la última estación a la que enviamos a tu tripulación antes de que podamos planear el ataque de otra."</eventtext.gettakeovermission.general.isactive>
+  <eventtext.piratemissionbroadcast.receive>"Arrr jaja, ¿Qué tenemos aquí? ¡Un buen botín acaba de aparecer frente a mis ojos! Espero que hayan venido preparados..."</eventtext.piratemissionbroadcast.receive>
+  <eventtext.cocargobroadcast.receive>Recibes una transmisión desde otro submarino. ¿Qué es lo que quieres hacer?</eventtext.cocargobroadcast.receive>
+  <eventtext.cocargobroadcast.receive.accept.answer>"Al habla CO-CT-43. ¡Indique sus negocios en esta área inmediatamente!"</eventtext.cocargobroadcast.receive.accept.answer>
+  <eventtext.cocargobroadcast.receive.accept.answer.truth>(Decír la verdad) "Estamos aquí para robarte, obviamente... ¡Prepárense para ser abordados!"</eventtext.cocargobroadcast.receive.accept.answer.truth>
+  <eventtext.cocargobroadcast.receive.accept.answer.truth.answer>"Por lo menos eres honesto... *¡TODO EL MUNDO A SUS PUESTOS! ¡HOSTILES EN CAMINO!*"</eventtext.cocargobroadcast.receive.accept.answer.truth.answer>
+  <eventtext.cocargobroadcast.receive.accept.answer.lie>(Mentir) "Tenemos ordenes oficiales del Almirante Edward para revisar su carga para detectar posibles polizones. Por favor, coopere con nosotros y detenga el submarino."</eventtext.cocargobroadcast.receive.accept.answer.lie>
+  <eventtext.cocargobroadcast.receive.accept.answer.lie.success>"¡Oh, ¿El Almirante Edward?! Sí, ¡Por supuesto que nos detendremos inmediatamente! ¡Bienvenido a bordo!"</eventtext.cocargobroadcast.receive.accept.answer.lie.success>
+  <eventtext.cocargobroadcast.receive.accept.answer.lie.failure>"¡¿Cuán estupido crees que somos? No existe un tal Almirante Edward! Quiénquiera que seas, te sugerimos dar media vuelta y largarte o enfrentar las consecuencias."</eventtext.cocargobroadcast.receive.accept.answer.lie.failure>
+  <eventtext.factionseparatist.meltdown>El Reactor se está deformando y crujiendo por la presión, ¿Qué vas a hacer?</eventtext.factionseparatist.meltdown>
+  <eventtext.factionseparatist.meltdown.option.pressure>Liberar presión</eventtext.factionseparatist.meltdown.option.pressure>
+  <eventtext.factionseparatist.meltdown.option.pressure.success>El Reactor tiembla, pero escuchas el sílbido del vapor saliendo del núcleo. Parece que alguien le empalmó algo...</eventtext.factionseparatist.meltdown.option.pressure.success>
+  <eventtext.factionseparatist.meltdown.option.pressure.failure>El Reactor burbujea mientras las mangueras protectoras del núcleo se hinchan por el vapor y se van soltando. Un ingeniero calificado va a ser necesario.</eventtext.factionseparatist.meltdown.option.pressure.failure>
+  <eventtext.factionseparatist.smellofsulfur>El hedor a azufre te quema las fosas nasales...</eventtext.factionseparatist.smellofsulfur>
+  <eventtext.factionseparatist.hiddenstash>Escondido entre las paredes notas el brillo de lo que parece una pequeña caja de metal.</eventtext.factionseparatist.hiddenstash>
+  <eventtext.factionseparatist.hiddenstash.take>Encuentras un detonador con una nota pegada con instrucciones detalladas sobre lo que debe hacerse por la democracia.</eventtext.factionseparatist.hiddenstash.take>
+  <eventtext.bartender.offerdrink.nodrunk>"Te vendría bien una bebida."</eventtext.bartender.offerdrink.nodrunk>
+  <eventtext.bartender.offerdrink.slightdrunk>"Creo que puedes aguantar una más."</eventtext.bartender.offerdrink.slightdrunk>
+  <eventtext.bartender.offerdrink.drunk>"¿Otra ronda?"</eventtext.bartender.offerdrink.drunk>
+  <eventtext.bartender.buy.rum>Ron (150 MK)</eventtext.bartender.buy.rum>
+  <eventtext.bartender.buy.rum.success.nodrunk>"Lo siento, solo tengo endulzante artificial."</eventtext.bartender.buy.rum.success.nodrunk>
+  <eventtext.bartender.buy.rum.success.slightdrunk>"Aún tengo más de eso en la bodega."</eventtext.bartender.buy.rum.success.slightdrunk>
+  <eventtext.bartender.buy.rum.success.drunk>"¡Veamos si sigues en pie después de este!"</eventtext.bartender.buy.rum.success.drunk>
+  <eventtext.bartender.buy.rum.failure>"Solo tenemos cuentas para los locales del puesto, muéstrame el dinero primero."</eventtext.bartender.buy.rum.failure>
+  <eventtext.bartender.tip>Darle un propina e irte (50 MK)</eventtext.bartender.tip>
+  <eventtext.bartender.tip.success>"Te pasaré un dato por eso; Cuando desatraques busca esta señal. Podría haber algo valioso ahí."</eventtext.bartender.tip.success>
+  <eventtext.bartender.tip.failure>"Ojalá los elogios pagarán las facturas, gracias de todas formas."</eventtext.bartender.tip.failure>
+  <eventtext.pirateoutpostevent>Un pirata se detiene y te mira como esperando algo, ¿Qué harás?</eventtext.pirateoutpostevent>
+  <eventtext.pirateoutpostevent.option.ignore>Seguir caminando.</eventtext.pirateoutpostevent.option.ignore>
+  <eventtext.pirateoutpostevent.option.ignore.answer>No te importa y sigues con tus asuntos.</eventtext.pirateoutpostevent.option.ignore.answer>
+  <eventtext.pirateoutpostevent.option.ignore.answer.response>Lo oyes llamarte: "¡Hey, espera un segundo!"</eventtext.pirateoutpostevent.option.ignore.answer.response>
+  <eventtext.pirateoutpostevent.option.attack>Atacar (Destruye el puesto de avanzada pirata)</eventtext.pirateoutpostevent.option.attack>
+  <eventtext.pirateoutpostevent.option.attack.answer>"Realmente me das asco sucia escoria pirata... ¡Hora de hacer control de plagas!"</eventtext.pirateoutpostevent.option.attack.answer>
+  <eventtext.pirateoutpostevent.option.attack2>¡A romper y destrozar! (Destruye el puesto de avanzada pirata)</eventtext.pirateoutpostevent.option.attack2>
+  <eventtext.pirateoutpostevent.option.attack2.answer>"¡Es hora de mandarlos a todos ustedes al infierno!"</eventtext.pirateoutpostevent.option.attack2.answer>
+  <eventtext.commsrelay.piratehaven>La estación está intentando establecer contacto...</eventtext.commsrelay.piratehaven>
+  <eventtext.commsrelay.piratehaven.answer>"¡Hey, ¿Éres estúpido?! ¿Creíste que no revisábamos a los que atracan?  ¡Pués piénsalo otra vez, imbécil! ¡Sabémos que estás con la coalición! Ni se te ocurra poner un solo pie en este puesto o te arrepentirás, sabandija. ¡Piérdete!"</eventtext.commsrelay.piratehaven.answer>
+  <eventtext.option.accept>Aceptar</eventtext.option.accept>
+  <eventtext.option.listen>Escuchar</eventtext.option.listen>
+  <eventtext.option.investigate>Investigar</eventtext.option.investigate>
+  <eventtext.option.decline>Rechazar</eventtext.option.decline>
+  <eventtext.option.ignore>Ignorar</eventtext.option.ignore>
+  <eventtext.option.leave>Irse</eventtext.option.leave>
+  <eventtext.option.nevermind>No importa</eventtext.option.nevermind>
+  <eventtext.general.decline>"No esta vez"</eventtext.general.decline>
+  <eventtext.commsrelay.monster>Captas una extraña señal de radio, podría valer la pena investigar...</eventtext.commsrelay.monster>
+  <eventtext.commsrelay.monster.answer>Inquietantes aullidos resuenan a través del casco, algo debe estar emitiendo esta señal anómala.</eventtext.commsrelay.monster.answer>
+  <eventtext.commsrelay.monster.answer>Estridentes chirridos te causan escalofríos en la columna, algo debe estar emitiendo esta señal anómala.</eventtext.commsrelay.monster.answer>
+  <eventtext.commsrelay.wreck>Captas una señal de socorro automatizada, podría valer la pena investigar...</eventtext.commsrelay.wreck>
+  <eventtext.commsrelay.wreck.answer>Recibes una transmisión SOS desde una ubicación cercana.</eventtext.commsrelay.wreck.answer>
+  <eventtext.commsrelay.ruin>Captas una señal alienígena, podría valer la pena investigar...</eventtext.commsrelay.ruin>
+  <eventtext.commsrelay.ruin.answer>Un silbido, zumbante y misterioso te despierta un profundo terror, algo debe estar emitiendo esta señal anómala.</eventtext.commsrelay.ruin.answer>
+  <eventtext.commsrelay.closetosignal>La extraña señal se vuelve más y más fuerte, debe estar cerca...</eventtext.commsrelay.closetosignal>
+  <eventtext.commsrelay.generic.decline>"No tenemos tiempo para esto."</eventtext.commsrelay.generic.decline>
+  <eventtext.factionstowaway.separatist>Un vigoroso separatista salta fuera de la caja, todo mientras agita un arma de fuego de un lado a otro salvajemente.</eventtext.factionstowaway.separatist>
+  <eventtext.factionstowaway.coalition.good>Parece ser un paquete pérdido con objetos de otro capitán. ¡Genial!</eventtext.factionstowaway.coalition.good>
+  <eventtext.factionstowaway.coalition.bad>La caja solo contenía una pequeña carta con el sello de la Coalición. Bueno, mala suerte.</eventtext.factionstowaway.coalition.bad>
+  <eventtext.factionstowaway.cultist>El hedor a carne podrida es seguido de un traje de buceo oxidado que comienza a caminar fuera de la caja.</eventtext.factionstowaway.cultist>
+  <eventtext.factionstowaway.clown>Un payaso te sonríe maquiavélicamente en cuanto tu mirada choca la suya, puedes ver gotas de baba cayendo por debajo de su máscara.</eventtext.factionstowaway.clown>
+  <eventtext.cocivtransport.interact>Te acercas a un civil aparentemente asustado, ¿Qué vas a hacer?</eventtext.cocivtransport.interact>
+  <eventtext.cocivtransport.option.rob>"Entrega todo tu dinero ahora mismo o no saldrás de aquí con vida"</eventtext.cocivtransport.option.rob>
+  <eventtext.cocivtransport.option.rob.answer>"Bien bien... ¡Esto es todo lo que tengo!"</eventtext.cocivtransport.option.rob.answer>
+  <eventtext.cocivtransport.option.execute>"¿Unas últimas palabras?" (Ejecutar)</eventtext.cocivtransport.option.execute>
+  <eventtext.cocivtransport.option.execute.answer>"No no no no por favor espe..."</eventtext.cocivtransport.option.execute.answer>
+  <eventtext.cocivtransport.option.hire>"¡Únetenos o muere como los demás!"</eventtext.cocivtransport.option.hire>
+  <eventtext.cocivtransport.option.hire.success>"¡Vale, vale! ¡Haré lo que sea, pero por favor no me hagas daño!"</eventtext.cocivtransport.option.hire.success>
+  <eventtext.cocivtransport.option.hire.failure>"¡Antes muerto que unirme a unos sucios piratas!"</eventtext.cocivtransport.option.hire.failure>
+  <eventtext.jobboardde.interact>Ves una colección de folletos que llenan la pared, cada uno con una recompensa. ¿Cúal decídes tomar?</eventtext.jobboardde.interact>
+  <eventtext.jobboardde.option.piratemission>Recompensa por piratas</eventtext.jobboardde.option.piratemission>
+  <eventtext.jobboardde.option.piratemission.info>-RECOMPENSAS DISPONIBLES PARA CAZADORES DE PIRATAS LOCALES-</eventtext.jobboardde.option.piratemission.info>
+  <eventtext.jobboardde.option.piratemission.accept>Piensas para tí mismo: "La Coalición en serio necesita gente que se encargue de su trabajo sucio anónimamente."</eventtext.jobboardde.option.piratemission.accept>
+  <eventtext.jobboardde.option.monstermission>Eliminación de fauna</eventtext.jobboardde.option.monstermission>
+  <eventtext.jobboardde.option.monstermission.info>-FAUNA LOCAL CAUSA ESTRAGOS - PAGOS POR EJEMPLARES MUERTOS-</eventtext.jobboardde.option.monstermission.info>
+  <eventtext.jobboardde.option.monstermission.accept>Piensas para tí mismo: "Alguién realmente quiere deshacerse de esas peligrosas criaturas."</eventtext.jobboardde.option.monstermission.accept>
+  <eventtext.jobboardde.option.miningmission>Trabajos de minería</eventtext.jobboardde.option.miningmission>
+  <eventtext.jobboardde.option.miningmission.info>-CUEVA LOCAL PODRÍA CONTENER DEPÓSITOS DE MINERALES - PAGAMOS POR PRUEBAS DE SU EXISTENCIA-</eventtext.jobboardde.option.miningmission.info>
+  <eventtext.jobboardde.option.miningmission.accept>Piensas para tí mismo: "Un poco de trabajo honesto en las minas, ¿Qué podría salir mal?"</eventtext.jobboardde.option.miningmission.accept>
+  <eventtext.jobboardde.option.cargomission>Transporte de cargamento</eventtext.jobboardde.option.cargomission>
+  <eventtext.jobboardde.option.cargomission.info>-SE BUSCAN CAPITANES PARA TRANSPORTE DE CARGA CONGELADA-</eventtext.jobboardde.option.cargomission.info>
+  <eventtext.jobboardde.option.cargomission.accept>Piensas para tí mismo: "Para ser honesto, ¡Me importa un carajo los límites de velocidad!"</eventtext.jobboardde.option.cargomission.accept>
+  <eventtext.jobboardde.option.salvagemission>Botín de salvamento</eventtext.jobboardde.option.salvagemission>
+  <eventtext.jobboardde.option.salvagemission.info>-UNA SEÑAL APARECIÓ EN UNA CUEVA LOCAL - PAGAMOS A CUALQUIERA QUE INVESTIGUE Y RECUPERE LO QUE ENCUENTRE-</eventtext.jobboardde.option.salvagemission.info>
+  <eventtext.jobboardde.option.salvagemission.accept>Piensas para tí mismo: "¡Estoy seguro de que hay algo de chatarra ahí abajo!"</eventtext.jobboardde.option.salvagemission.accept>
+  <eventtext.shop.engineer.interact>"Tengo algunos materiales de sobra por aquí, ¿Quíeres comprar?, ¡Aunque solo puedes elegir uno!"</eventtext.shop.engineer.interact>
+  <eventtext.shop.engineer.option.fuelrod>4x Barra de combustible (900 Mk)</eventtext.shop.engineer.option.fuelrod>
+  <eventtext.shop.engineer.option.fuelrod.buy.success>"Aquí tienes algo de combustible extra para ti"</eventtext.shop.engineer.option.fuelrod.buy.success>
+  <eventtext.shop.engineer.option.fuelrod.buy.failure>"Lo siento, no hago donaciones."</eventtext.shop.engineer.option.fuelrod.buy.failure>
+  <eventtext.shop.engineer.option.fpga>2x Circuito FPGA (250 Mk)</eventtext.shop.engineer.option.fpga>
+  <eventtext.shop.engineer.option.fpga.buy.success>"Todavía puedes oler al fabricante."</eventtext.shop.engineer.option.fpga.buy.success>
+  <eventtext.shop.engineer.option.fpga.buy.failure>"¿Sabes que esto cuesta dinero, verdad?"</eventtext.shop.engineer.option.fpga.buy.failure>
   <eventtext.shop.engineer.option.extinguisher>1x Fire Extinguisher (100 Mk)</eventtext.shop.engineer.option.extinguisher>
   <eventtext.shop.engineer.option.extinguisher.buy.success>"Better safe than sorry."</eventtext.shop.engineer.option.extinguisher.buy.success>
   <eventtext.shop.engineer.option.extinguisher.buy.failure>"You're really hurting if a fire breaks out."</eventtext.shop.engineer.option.extinguisher.buy.failure>
