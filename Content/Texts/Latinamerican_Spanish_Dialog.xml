@@ -297,112 +297,112 @@
   <eventtext.shop.engineer.option.fuelrod.buy.success>"Aquí tienes algo de combustible extra para ti"</eventtext.shop.engineer.option.fuelrod.buy.success>
   <eventtext.shop.engineer.option.fuelrod.buy.failure>"Lo siento, no hago donaciones."</eventtext.shop.engineer.option.fuelrod.buy.failure>
   <eventtext.shop.engineer.option.fpga>2x Circuito FPGA (250 Mk)</eventtext.shop.engineer.option.fpga>
-  <eventtext.shop.engineer.option.fpga.buy.success>"Todavía puedes oler al fabricante."</eventtext.shop.engineer.option.fpga.buy.success>
+  <eventtext.shop.engineer.option.fpga.buy.success>"Todavía mantienen el olor del fabricador."</eventtext.shop.engineer.option.fpga.buy.success>
   <eventtext.shop.engineer.option.fpga.buy.failure>"¿Sabes que esto cuesta dinero, verdad?"</eventtext.shop.engineer.option.fpga.buy.failure>
-  <eventtext.shop.engineer.option.extinguisher>1x Fire Extinguisher (100 Mk)</eventtext.shop.engineer.option.extinguisher>
-  <eventtext.shop.engineer.option.extinguisher.buy.success>"Better safe than sorry."</eventtext.shop.engineer.option.extinguisher.buy.success>
-  <eventtext.shop.engineer.option.extinguisher.buy.failure>"You're really hurting if a fire breaks out."</eventtext.shop.engineer.option.extinguisher.buy.failure>
-  <eventtext.shop.engineer.unfriedly>"We're not gonna help the likes of you."</eventtext.shop.engineer.unfriedly>
-  <eventtext.shop.engineer.attack>"You're gonna pay today, Viva la revolution!"</eventtext.shop.engineer.attack>
-  <eventtext.shop.quartermaster.interact>"I've got some surplus welding fuel, if you need to resupply."</eventtext.shop.quartermaster.interact>
-  <eventtext.shop.quartermaster.option.weldingfuel>8x Welding Fuel (1000 Mk)</eventtext.shop.quartermaster.option.weldingfuel>
-  <eventtext.shop.quartermaster.option.weldingfuel.buy.success>"Remember, highly flammable!"</eventtext.shop.quartermaster.option.weldingfuel.buy.success>
-  <eventtext.shop.quartermaster.option.weldingfuel.buy.failure>"Sorry, I'm not doing handouts."</eventtext.shop.quartermaster.option.weldingfuel.buy.failure>
-  <eventtext.shop.quartermaster.option.scrap>1x Scrap + Info (1000 Mk)</eventtext.shop.quartermaster.option.scrap>
-  <eventtext.shop.quartermaster.option.scrap.buy.success>"Got this from a wreck not far from here, let me add it to your map..."</eventtext.shop.quartermaster.option.scrap.buy.success>
-  <eventtext.shop.quartermaster.option.scrap.buy.failure>"It's not trash to me son, pay up."</eventtext.shop.quartermaster.option.scrap.buy.failure>
-  <eventtext.shop.securityofficer.interact>"I've got surplus ammo, if you're looking to resupply, but I can only sell you 1 package!"</eventtext.shop.securityofficer.interact>
-  <eventtext.shop.securityofficer.option.coilgunammo>Coilgun Ammunition Box (150 Mk)</eventtext.shop.securityofficer.option.coilgunammo>
-  <eventtext.shop.securityofficer.option.coilgunammo.buy.success>"Give them the whole 9 yards."</eventtext.shop.securityofficer.option.coilgunammo.buy.success>
-  <eventtext.shop.securityofficer.option.coilgunammo.buy.failure>"This ammo isn't a hand me out."</eventtext.shop.securityofficer.option.coilgunammo.buy.failure>
-  <eventtext.shop.securityofficer.option.revolverammo>12x .38 Revolver Round (600 Mk)</eventtext.shop.securityofficer.option.revolverammo>
-  <eventtext.shop.securityofficer.option.revolverammo.buy.success>"Good ole .38."</eventtext.shop.securityofficer.option.revolverammo.buy.success>
-  <eventtext.shop.securityofficer.option.revolverammo.buy.failure>"You know bullets aren't free, right?"</eventtext.shop.securityofficer.option.revolverammo.buy.failure>
-  <eventtext.shop.securityofficer.option.smgmagazine>2x SMG Magazine (400 Mk)</eventtext.shop.securityofficer.option.smgmagazine>
-  <eventtext.shop.securityofficer.option.smgmagazine.buy.success>".45, for killing the soul."</eventtext.shop.securityofficer.option.smgmagazine.buy.success>
-  <eventtext.shop.securityofficer.option.smgmagazine.buy.failure>"You know bullets aren't free, right?"</eventtext.shop.securityofficer.option.smgmagazine.buy.failure>
-  <eventtext.securityofficer.interact>"Got any stolen goods on you?"</eventtext.securityofficer.interact>
-  <eventtext.securityofficer.option.polite>"No Sir."</eventtext.securityofficer.option.polite>
-  <eventtext.securityofficer.option.polite.answer>"Better not."</eventtext.securityofficer.option.polite.answer>
-  <eventtext.securityofficer.option.rude>"None that you know of."</eventtext.securityofficer.option.rude>
-  <eventtext.securityofficer.option.rude.answer>"Wise guy huh?"</eventtext.securityofficer.option.rude.answer>
-  <eventtext.securityofficer.bribe.interact>"I'm keeping an eye on you."</eventtext.securityofficer.bribe.interact>
-  <eventtext.securityofficer.bribe.option.polite>"Thats ok officer, I will behave."</eventtext.securityofficer.bribe.option.polite>
-  <eventtext.securityofficer.bribe.option.polite.answer>"We will see about that..."</eventtext.securityofficer.bribe.option.polite.answer>
-  <eventtext.securityofficer.bribe.option.rude>"All security officers are bastards!"</eventtext.securityofficer.bribe.option.rude>
-  <eventtext.securityofficer.bribe.option.rude.answer>"So you wanna do this the hard way, huh?"</eventtext.securityofficer.bribe.option.rude.answer>
-  <eventtext.securityofficer.bribe.option.leave.answer>"I've got a suspect here, Standby."</eventtext.securityofficer.bribe.option.leave.answer>
-  <eventtext.securityofficer.bribe.option.bribe.high>Bribe (500 Mk)</eventtext.securityofficer.bribe.option.bribe.high>
-  <eventtext.securityofficer.bribe.option.bribe.medium>Bribe (250 Mk)</eventtext.securityofficer.bribe.option.bribe.medium>
-  <eventtext.securityofficer.bribe.option.bribe.low>Bribe (75 Mk)</eventtext.securityofficer.bribe.option.bribe.low>
-  <eventtext.securityofficer.bribe.option.bribe.success>"On second thought, you're not the guy I was looking for."</eventtext.securityofficer.bribe.option.bribe.success>
-  <eventtext.securityofficer.bribe.option.bribe.failure>"Are you trying to bribe me with that puny amount?"</eventtext.securityofficer.bribe.option.bribe.failure>
-  <eventtext.securityofficer.bribe.option.bribe.rejected>"Are you trying to bribe me?"</eventtext.securityofficer.bribe.option.bribe.rejected>
-  <eventtext.securityofficer.option.insult>Insult</eventtext.securityofficer.option.insult>
-  <eventtext.securityofficer.option.insult.answer>"What did you just say to me!? I'll file a report if you don't stop with that!"</eventtext.securityofficer.option.insult.answer>
-  <eventtext.securityofficer.option.insult.answer.insult.answer>"That's it! You're under arrest!"</eventtext.securityofficer.option.insult.answer.insult.answer>
-  <eventtext.securityofficer.option.insult.leave.answer>"Yeah you better get going!"</eventtext.securityofficer.option.insult.leave.answer>
-  <eventtext.shop.piratesecurityofficer.interact>"I've got some fuckin' firepower if you're looking to load up. I'll sell ya one package of your choosing."</eventtext.shop.piratesecurityofficer.interact>
-  <eventtext.shop.piratesecurityofficer.option.hyperzine>Hyperzine (500 Mk)</eventtext.shop.piratesecurityofficer.option.hyperzine>
-  <eventtext.shop.piratesecurityofficer.option.hyperzine.buy.success>"Oh, that's the good stuff."</eventtext.shop.piratesecurityofficer.option.hyperzine.buy.success>
-  <eventtext.shop.piratesecurityofficer.option.hyperzine.buy.failure>"You're not getting high for free."</eventtext.shop.piratesecurityofficer.option.hyperzine.buy.failure>
-  <eventtext.shop.piratesecurityofficer.option.handcannonammo>6x Hand Cannon Revolver Rounds (1000 Mk)</eventtext.shop.piratesecurityofficer.option.handcannonammo>
-  <eventtext.shop.piratesecurityofficer.option.handcannonammo.buy.success>"This will cut through any coalition body armor, a mantis, and even moloch armor I swear."</eventtext.shop.piratesecurityofficer.option.handcannonammo.buy.success>
-  <eventtext.shop.piratesecurityofficer.option.handcannonammo.buy.failure>"Does this look like a charity?"</eventtext.shop.piratesecurityofficer.option.handcannonammo.buy.failure>
-  <eventtext.shop.piratesecurityofficer.option.assaultriflemagazine>2x Assault Rifle Magazines (1000 Mk)</eventtext.shop.piratesecurityofficer.option.assaultriflemagazine>
-  <eventtext.shop.piratesecurityofficer.option.assaultriflemagazine.buy.success>"These are made with hatred and loaded with malicious intent, assault responsibly."</eventtext.shop.piratesecurityofficer.option.assaultriflemagazine.buy.success>
-  <eventtext.shop.piratesecurityofficer.option.assaultriflemagazine.buy.failure>"Did you just blow in from the abandoned station too? I need a lil money here."</eventtext.shop.piratesecurityofficer.option.assaultriflemagazine.buy.failure>
-  <eventtext.piratesecurityofficer.toll.low.interact>"Ya know we don't just let everyone walk right in. There's a fuckin' toll! Word of advice: It's better to pay up!"</eventtext.piratesecurityofficer.toll.low.interact>
-  <eventtext.piratesecurityofficer.highrep.pay.high>Pay Toll (1000 Mk)</eventtext.piratesecurityofficer.highrep.pay.high>
-  <eventtext.piratesecurityofficer.highrep.paytoll.success>"Hah! That's what I like to see. No hassle whatsoever!"</eventtext.piratesecurityofficer.highrep.paytoll.success>
-  <eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation>"You know what... If you pay double, I'll spread a few good words about your crew among the other crews!"</eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation>
-  <eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.buy>Pay 1000mk (Coalition Reputation -20)</eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.buy>
-  <eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.buy.success>"Hah! I knew I'd like you!"</eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.buy.success>
-  <eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.buy.failure>"Dude you don't even got the scratch... Trying to fuck me over? Get lost!"</eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.buy.failure>
-  <eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.declined>"Pff! Fine... Keep your stinkin' cash!"</eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.declined>
-  <eventtext.piratesecurityofficer.highrep.paytoll.failure>"You don't even have the money? Surely you own something worth my time."</eventtext.piratesecurityofficer.highrep.paytoll.failure>
-  <eventtext.piratesecurityofficer.highrep.pay.medium>Haggle (750 Mk)</eventtext.piratesecurityofficer.highrep.pay.medium>
-  <eventtext.piratesecurityofficer.highrep.haggle.success>"Really now? You fuckin' with me, right? Alright fine! Go in..."</eventtext.piratesecurityofficer.highrep.haggle.success>
-  <eventtext.piratesecurityofficer.highrep.haggle.failure>"Think this pittance is gonna be enough? You're in, but remember: no cash, no service."</eventtext.piratesecurityofficer.highrep.haggle.failure>
-  <eventtext.piratesecurityofficer.highrep.haggle.rejected>"Find the money or piss off."</eventtext.piratesecurityofficer.highrep.haggle.rejected>
-  <eventtext.piratesecurityofficer.highrep.pay.low>Plead (250 Mk)</eventtext.piratesecurityofficer.highrep.pay.low>
-  <eventtext.piratesecurityofficer.highrep.plead.success>"Your crying amuses me... Dont you say another word and get outta my sight."</eventtext.piratesecurityofficer.highrep.plead.success>
-  <eventtext.piratesecurityofficer.highrep.plead.undress>"Can't afford our hospitality huh? Don't worry, I'll give you the royal treatment!"</eventtext.piratesecurityofficer.highrep.plead.undress>
-  <eventtext.piratesecurityofficer.highrep.plead.UhOh>"Uh Oh."</eventtext.piratesecurityofficer.highrep.plead.UhOh>
-  <eventtext.piratesecurityofficer.highrep.plead.failure>"Suit youself, your majesty!"</eventtext.piratesecurityofficer.highrep.plead.failure>
-  <eventtext.piratesecurityofficer.highrep.plead.rejected>"Your pitiful excuse of a story isn't gonna save you!"</eventtext.piratesecurityofficer.highrep.plead.rejected>
-  <eventtext.piratesecurityofficer.toll.option.leave.answer>"I know a language you'll understand."</eventtext.piratesecurityofficer.toll.option.leave.answer>
-  <eventtext.piratesecurityofficer.toll.option.insult>Insult</eventtext.piratesecurityofficer.toll.option.insult>
-  <eventtext.piratesecurityofficer.toll.option.insult.answer>"Oh you're so fucking dead!"</eventtext.piratesecurityofficer.toll.option.insult.answer>
-  <eventtext.piratesecurityofficer.attack>"Get 'em!"</eventtext.piratesecurityofficer.attack>
-  <eventtext.piratesecurityofficer.attack.coalition>Get them coalition pigs!</eventtext.piratesecurityofficer.attack.coalition>
-  <eventtext.piratesecurityofficer.toll.high.interact>"Oh what do we have here? Coalition scum!? Ya know there's a fuckin' TOLL! Pay up dumbass!"</eventtext.piratesecurityofficer.toll.high.interact>
-  <eventtext.piratesecurityofficer.lowrep.pay.high>Pay Toll (2000 Mk)</eventtext.piratesecurityofficer.lowrep.pay.high>
-  <eventtext.piratesecurityofficer.lowrep.paytoll.success>"Thanks for stopping by, pig!"</eventtext.piratesecurityofficer.lowrep.paytoll.success>
-  <eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation>"Imma give you a special offer now. Pay me double and I'll spread some really good words about your crew amongst the other crews here."</eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation>
-  <eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.buy>Pay 1000Mk (Coalition Reputation -40)</eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.buy>
-  <eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.buy.success>"Hm didn't expect you to actually pay. Alright I'll spread some cool rumors about your crew. Coalition won't like it if they hear it, hehe."</eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.buy.success>
-  <eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.buy.failure>"Look at this idiot! Can't even keep track of their fuckin' money. Get lost!"</eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.buy.failure>
-  <eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.declined>"Should've guessed. You're just a shitty loyal boot licker. Get the hell out of my sight!"</eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.declined>
-  <eventtext.piratesecurityofficer.lowrep.paytoll.failure>"You don't even have the money? Surely you coalition folks own something worth my time."</eventtext.piratesecurityofficer.lowrep.paytoll.failure>
-  <eventtext.piratesecurityofficer.lowrep.pay.medium>Haggle (1500 Mk)</eventtext.piratesecurityofficer.lowrep.pay.medium>
-  <eventtext.piratesecurityofficer.lowrep.haggle.success>"Go in, but make it quick pig, or I will."</eventtext.piratesecurityofficer.lowrep.haggle.success>
-  <eventtext.piratesecurityofficer.lowrep.haggle.failure>"I was expecting something more from someone like you... Get in."</eventtext.piratesecurityofficer.lowrep.haggle.failure>
-  <eventtext.piratesecurityofficer.toll.high.haggle.rejected>"You know what? Forget about it! You're a goner!"</eventtext.piratesecurityofficer.toll.high.haggle.rejected>
-  <eventtext.piratesecurityofficer.lowrep.pay.low>Plead (1000 Mk)</eventtext.piratesecurityofficer.lowrep.pay.low>
-  <eventtext.piratesecurityofficer.lowrep.plead.success>"Haha hey boys! Look at this whiny shitbag! ...Alright you made me laugh so go in, before I change my mind!"</eventtext.piratesecurityofficer.lowrep.plead.success>
-  <eventtext.piratesecurityofficer.lowrep.plead.failure>"You fuckin' kiddin' me!? Imma take everything from your fuckin' corpse!"</eventtext.piratesecurityofficer.lowrep.plead.failure>
-  <eventtext.piratesecurityofficer.lowrep.plead.rejected>"Your pitiful excuse of a story isn't gonna save you, nor can your coalition buddies help you here! Say your last words!"</eventtext.piratesecurityofficer.lowrep.plead.rejected>
-  <eventtext.piratehavenalarm.breakin>"These guys are trying to break in! Get 'em!"</eventtext.piratehavenalarm.breakin>
-  <eventtext.piratearmorylocked.doorlocked>You try pressing the button, but the door seems locked. You can hear a raspy voice from the other side: \n\n"Should've paid, the toll, chump. But if you REALLY want in... we can find an arrangement..."</eventtext.piratearmorylocked.doorlocked>
-  <eventtext.piratearmorylocked.howmuch>*Sigh...* "How much?"</eventtext.piratearmorylocked.howmuch>
-  <eventtext.piratearmorylocked.500mk>"500Mk. Pay up or stay out."</eventtext.piratearmorylocked.500mk>
-  <eventtext.piratearmorylocked.Pay>"Fine..."</eventtext.piratearmorylocked.Pay>
-  <eventtext.piratearmorylocked.noway>"No way. This is racket."</eventtext.piratearmorylocked.noway>
-  <eventtext.piratearmorylocked.dooropens>"Nice. Lookin' forward to doing business."</eventtext.piratearmorylocked.dooropens>
-  <eventtext.piratearmorylocked.nomoney>"Trying to swindle me? No cash, no guns."</eventtext.piratearmorylocked.nomoney>
-  <eventtext.piratearmorylocked.comeback>"Hah! Come back if you change your mind. I'm not going anywhere."</eventtext.piratearmorylocked.comeback>
-  <eventtext.piratearmoryalarm.breakin>"This guy's trying to steal our supplies!"</eventtext.piratearmoryalarm.breakin>
+  <eventtext.shop.engineer.option.extinguisher>1x Extintor (100 Mk)</eventtext.shop.engineer.option.extinguisher>
+  <eventtext.shop.engineer.option.extinguisher.buy.success>"Más vale prevenir que lamentar."</eventtext.shop.engineer.option.extinguisher.buy.success>
+  <eventtext.shop.engineer.option.extinguisher.buy.failure>"Realmente sufrirás si se desata un incendio."</eventtext.shop.engineer.option.extinguisher.buy.failure>
+  <eventtext.shop.engineer.unfriedly>"No ayudamos a sujetos como tú."</eventtext.shop.engineer.unfriedly>
+  <eventtext.shop.engineer.attack>"Hoy la pagarás, ¡Viva la revolución!"</eventtext.shop.engineer.attack>
+  <eventtext.shop.quartermaster.interact>"Tengo tanques de combustible sobrantes, por si necesitas reabastecerte."</eventtext.shop.quartermaster.interact>
+  <eventtext.shop.quartermaster.option.weldingfuel>8x Tanques de combustible (1000 Mk)</eventtext.shop.quartermaster.option.weldingfuel>
+  <eventtext.shop.quartermaster.option.weldingfuel.buy.success>"No lo olvides, ¡Altamente inflamable!"</eventtext.shop.quartermaster.option.weldingfuel.buy.success>
+  <eventtext.shop.quartermaster.option.weldingfuel.buy.failure>"Lo siento, no hago donaciones."</eventtext.shop.quartermaster.option.weldingfuel.buy.failure>
+  <eventtext.shop.quartermaster.option.scrap>1x Chatarra + Información (1000 Mk)</eventtext.shop.quartermaster.option.scrap>
+  <eventtext.shop.quartermaster.option.scrap.buy.success>"Conseguí esto de un naufragio no muy lejos de aquí, déjame añadirlo en tu mapa..."</eventtext.shop.quartermaster.option.scrap.buy.success>
+  <eventtext.shop.quartermaster.option.scrap.buy.failure>"Para mí no es basura, muchacho, se paga."</eventtext.shop.quartermaster.option.scrap.buy.failure>
+  <eventtext.shop.securityofficer.interact>"Tengo cajas de munición sobrantes, por si buscas reabastecerte, ¡Pero solo puedes escoger una!"</eventtext.shop.securityofficer.interact>
+  <eventtext.shop.securityofficer.option.coilgunammo>Caja de munición de cañón de Gauss (150 Mk)</eventtext.shop.securityofficer.option.coilgunammo>
+  <eventtext.shop.securityofficer.option.coilgunammo.buy.success>"Sácales todo el provecho."</eventtext.shop.securityofficer.option.coilgunammo.buy.success>
+  <eventtext.shop.securityofficer.option.coilgunammo.buy.failure>"Esta munición no es de caridad."</eventtext.shop.securityofficer.option.coilgunammo.buy.failure>
+  <eventtext.shop.securityofficer.option.revolverammo>12x .38 Munición de revólver (600 Mk)</eventtext.shop.securityofficer.option.revolverammo>
+  <eventtext.shop.securityofficer.option.revolverammo.buy.success>"La buena calibre .38."</eventtext.shop.securityofficer.option.revolverammo.buy.success>
+  <eventtext.shop.securityofficer.option.revolverammo.buy.failure>"Sabes que las balas no son gratis, ¿verdad?"</eventtext.shop.securityofficer.option.revolverammo.buy.failure>
+  <eventtext.shop.securityofficer.option.smgmagazine>2x Cargador de subfusil (400 Mk)</eventtext.shop.securityofficer.option.smgmagazine>
+  <eventtext.shop.securityofficer.option.smgmagazine.buy.success>"Calibre .45, para matar el alma."</eventtext.shop.securityofficer.option.smgmagazine.buy.success>
+  <eventtext.shop.securityofficer.option.smgmagazine.buy.failure>"Sabes que las balas no son gratis, ¿verdad?"</eventtext.shop.securityofficer.option.smgmagazine.buy.failure>
+  <eventtext.securityofficer.interact>"¿Llevas contigo algún objeto robado?"</eventtext.securityofficer.interact>
+  <eventtext.securityofficer.option.polite>"No señor."</eventtext.securityofficer.option.polite>
+  <eventtext.securityofficer.option.polite.answer>"Más vale que no."</eventtext.securityofficer.option.polite.answer>
+  <eventtext.securityofficer.option.rude>"Ninguno que usted conozca."</eventtext.securityofficer.option.rude>
+  <eventtext.securityofficer.option.rude.answer>"Chico listo, ¿eh?"</eventtext.securityofficer.option.rude.answer>
+  <eventtext.securityofficer.bribe.interact>"Mantendré un ojo sobre ti."</eventtext.securityofficer.bribe.interact>
+  <eventtext.securityofficer.bribe.option.polite>"Está bien oficial, me comportaré."</eventtext.securityofficer.bribe.option.polite>
+  <eventtext.securityofficer.bribe.option.polite.answer>"Ya lo veremos..."</eventtext.securityofficer.bribe.option.polite.answer>
+  <eventtext.securityofficer.bribe.option.rude>"¡Todos los de seguridad son unos bastardos!"</eventtext.securityofficer.bribe.option.rude>
+  <eventtext.securityofficer.bribe.option.rude.answer>"Así que quieres hacerlo de la manera difícil."</eventtext.securityofficer.bribe.option.rude.answer>
+  <eventtext.securityofficer.bribe.option.leave.answer>"Tengo algo para tí, esperando."</eventtext.securityofficer.bribe.option.leave.answer>
+  <eventtext.securityofficer.bribe.option.bribe.high>Soborno (500 Mk)</eventtext.securityofficer.bribe.option.bribe.high>
+  <eventtext.securityofficer.bribe.option.bribe.medium>Soborno (250 Mk)</eventtext.securityofficer.bribe.option.bribe.medium>
+  <eventtext.securityofficer.bribe.option.bribe.low>Soborno (75 Mk)</eventtext.securityofficer.bribe.option.bribe.low>
+  <eventtext.securityofficer.bribe.option.bribe.success>"Un segundo, tú no eres la persona a la que estaba buscando."</eventtext.securityofficer.bribe.option.bribe.success>
+  <eventtext.securityofficer.bribe.option.bribe.failure>"¿De verdad me estás sobornando con esa misera cantidad?"</eventtext.securityofficer.bribe.option.bribe.failure>
+  <eventtext.securityofficer.bribe.option.bribe.rejected>"¿Estás tratando de sobornarme?"</eventtext.securityofficer.bribe.option.bribe.rejected>
+  <eventtext.securityofficer.option.insult>Insultar</eventtext.securityofficer.option.insult>
+  <eventtext.securityofficer.option.insult.answer>"¡¿Qué acabas de decirme?! Mas te vale parar si no quieres que escriba un reporte sobre tí."</eventtext.securityofficer.option.insult.answer>
+  <eventtext.securityofficer.option.insult.answer.insult.answer>"¡Ya es todo! ¡Estás bajo arresto!"</eventtext.securityofficer.option.insult.answer.insult.answer>
+  <eventtext.securityofficer.option.insult.leave.answer>"Si, ¡Será mejor que te vayas!"</eventtext.securityofficer.option.insult.leave.answer>
+  <eventtext.shop.piratesecurityofficer.interact>"Tengo cosas malditamente increíbles si buscas cargarte hasta arriba.Te venderé las de tu elección."</eventtext.shop.piratesecurityofficer.interact>
+  <eventtext.shop.piratesecurityofficer.option.hyperzine>Hipercina (500 Mk)</eventtext.shop.piratesecurityofficer.option.hyperzine>
+  <eventtext.shop.piratesecurityofficer.option.hyperzine.buy.success>"Oh, esa es de la buena."</eventtext.shop.piratesecurityofficer.option.hyperzine.buy.success>
+  <eventtext.shop.piratesecurityofficer.option.hyperzine.buy.failure>"La droga no es gratis."</eventtext.shop.piratesecurityofficer.option.hyperzine.buy.failure>
+  <eventtext.shop.piratesecurityofficer.option.handcannonammo>6x Munición del cañón de mano (1000 Mk)</eventtext.shop.piratesecurityofficer.option.handcannonammo>
+  <eventtext.shop.piratesecurityofficer.option.handcannonammo.buy.success>"Esta cosa pasará a través de cualquier armadura de la coalición, mantis e incluso el caparazón de un Moloch, lo juro."</eventtext.shop.piratesecurityofficer.option.handcannonammo.buy.success>
+  <eventtext.shop.piratesecurityofficer.option.handcannonammo.buy.failure>"¿Acaso parezco alguien que esté donando?"</eventtext.shop.piratesecurityofficer.option.handcannonammo.buy.failure>
+  <eventtext.shop.piratesecurityofficer.option.assaultriflemagazine>2x Cargador del fusil de asalto (1000 Mk)</eventtext.shop.piratesecurityofficer.option.assaultriflemagazine>
+  <eventtext.shop.piratesecurityofficer.option.assaultriflemagazine.buy.success>"Están hechos con odio y cargados de malas intenciones. Dispara responsablemente."</eventtext.shop.piratesecurityofficer.option.assaultriflemagazine.buy.success>
+  <eventtext.shop.piratesecurityofficer.option.assaultriflemagazine.buy.failure>"¿Acabas de llegar desde una estación abandonada también? Aquí necesitamos dinero."</eventtext.shop.piratesecurityofficer.option.assaultriflemagazine.buy.failure>
+  <eventtext.piratesecurityofficer.toll.low.interact>"Ya sabes que no dejamos pasar a cualquiera por aquí. ¡Hay un maldito peaje! Quieres un consejo: ¡Paga!"</eventtext.piratesecurityofficer.toll.low.interact>
+  <eventtext.piratesecurityofficer.highrep.pay.high>Pagar el peaje (1000 Mk)</eventtext.piratesecurityofficer.highrep.pay.high>
+  <eventtext.piratesecurityofficer.highrep.paytoll.success>"Ja! Esto es lo que me gusta ver. ¡Para nada complicado!"</eventtext.piratesecurityofficer.highrep.paytoll.success>
+  <eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation>"Sabes que... Si pagas el doble, ¡podría difundir unos buenos rumores sobre tu tripulación entre las demás!"</eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation>
+  <eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.buy>Pagar 1000mk (Reputación de la Coalición -20)</eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.buy>
+  <eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.buy.success>"¡Ja! ¡Sabía que me agradarías!"</eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.buy.success>
+  <eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.buy.failure>"Ni siquiera tienes una cicatriz... ¿Intentas joderme? ¡Piérdete!"</eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.buy.failure>
+  <eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.declined>"¡Pff! Bien... ¡quédate con tu apestoso dinero!"</eventtext.piratesecurityofficer.highrep.paytoll.success.extra.reputation.declined>
+  <eventtext.piratesecurityofficer.highrep.paytoll.failure>"¿Ni siquiera tienes el dinero? Seguro que tienes algo que valga mi tiempo."</eventtext.piratesecurityofficer.highrep.paytoll.failure>
+  <eventtext.piratesecurityofficer.highrep.pay.medium>Regatear (750 Mk)</eventtext.piratesecurityofficer.highrep.pay.medium>
+  <eventtext.piratesecurityofficer.highrep.haggle.success>"¿De verdad, me estás tomando el pelo? De acuerdo, vale. Pasa..."</eventtext.piratesecurityofficer.highrep.haggle.success>
+  <eventtext.piratesecurityofficer.highrep.haggle.failure>"¿Te piensas que esa misera cantidad es suficiente? Te dejo pasar, pero recuerda: Sin dinero no hay servicio."</eventtext.piratesecurityofficer.highrep.haggle.failure>
+  <eventtext.piratesecurityofficer.highrep.haggle.rejected>"Busca el dinero o lárgate."</eventtext.piratesecurityofficer.highrep.haggle.rejected>
+  <eventtext.piratesecurityofficer.highrep.pay.low>Suplicar (250 Mk)</eventtext.piratesecurityofficer.highrep.pay.low>
+  <eventtext.piratesecurityofficer.highrep.plead.success>"Tu llanterio me divierte... No digas ni una palabra más y sal de mi vista."</eventtext.piratesecurityofficer.highrep.plead.success>
+  <eventtext.piratesecurityofficer.highrep.plead.undress>"¿No puedes pagar por nuestra hospitalidad? No te preocupes, ¡te trataré como a un rey!"</eventtext.piratesecurityofficer.highrep.plead.undress>
+  <eventtext.piratesecurityofficer.highrep.plead.UhOh>"Oh Oh."</eventtext.piratesecurityofficer.highrep.plead.UhOh>
+  <eventtext.piratesecurityofficer.highrep.plead.failure>"¡Como quiera, su majestad!"</eventtext.piratesecurityofficer.highrep.plead.failure>
+  <eventtext.piratesecurityofficer.highrep.plead.rejected>¡Tu lamentable excusa de historia no te salvará!"</eventtext.piratesecurityofficer.highrep.plead.rejected>
+  <eventtext.piratesecurityofficer.toll.option.leave.answer>"Conozco un idioma que entenderás."</eventtext.piratesecurityofficer.toll.option.leave.answer>
+  <eventtext.piratesecurityofficer.toll.option.insult>Insultar</eventtext.piratesecurityofficer.toll.option.insult>
+  <eventtext.piratesecurityofficer.toll.option.insult.answer>"¡Ahora si estás muerto!"</eventtext.piratesecurityofficer.toll.option.insult.answer>
+  <eventtext.piratesecurityofficer.attack>"¡Atrápenlo!"</eventtext.piratesecurityofficer.attack>
+  <eventtext.piratesecurityofficer.attack.coalition>¡Atrapen a esos cerdos de la coalición!</eventtext.piratesecurityofficer.attack.coalition>
+  <eventtext.piratesecurityofficer.toll.high.interact>"Oh, ¿Qué tenemos por aquí? ¡¿Escoría de la Coalición?!, ya lo sabes, hay un maldito ¡PEAJE! ¡Paga idiota!"</eventtext.piratesecurityofficer.toll.high.interact>
+  <eventtext.piratesecurityofficer.lowrep.pay.high>Pagar peaje (2000 Mk)</eventtext.piratesecurityofficer.lowrep.pay.high>
+  <eventtext.piratesecurityofficer.lowrep.paytoll.success>"¡Gracias por su visita, cerdo!"</eventtext.piratesecurityofficer.lowrep.paytoll.success>
+  <eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation>"Ahora te haré una oferta especial. Paga un poco más y difundiré rumores sobre tu tripulación entre las demás de por aquí."</eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation>
+  <eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.buy>Pagar 1000Mk (Reputación de la Coalición -40)</eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.buy>
+  <eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.buy.success>"Hmm.. no esperaba que de verdad fueras a pagar. Muy bien, cumpliré mi parte y contaré cosas bastante geniales de tu tripulación. A la Coalición no le gustará nada si llegan a escuchar sobre esto, jeje..."</eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.buy.success>
+  <eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.buy.failure>"¡Miren a este idiota! Ni siquiera puede cuidar su propio dinero. ¡Lárgate!"</eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.buy.failure>
+  <eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.declined>"Debería haberlo esperado. Solo eres un asqueroso y leal lamebotas de mierda. ¡Fuera de mi vista!"</eventtext.piratesecurityofficer.lowrep.paytoll.success.extra.reputation.declined>
+  <eventtext.piratesecurityofficer.lowrep.paytoll.failure>"¿Ni siquiera tienes el dinero? Seguro que ustedes los de la coalición tendrán algo que valga mi tiempo."</eventtext.piratesecurityofficer.lowrep.paytoll.failure>
+  <eventtext.piratesecurityofficer.lowrep.pay.medium>Regatear (1500 Mk)</eventtext.piratesecurityofficer.lowrep.pay.medium>
+  <eventtext.piratesecurityofficer.lowrep.haggle.success>"Entra, pero hazlo rápido cerdo, o ya verás."</eventtext.piratesecurityofficer.lowrep.haggle.success>
+  <eventtext.piratesecurityofficer.lowrep.haggle.failure>"Esperaba más de alguien como tú... Pasa."</eventtext.piratesecurityofficer.lowrep.haggle.failure>
+  <eventtext.piratesecurityofficer.toll.high.haggle.rejected>"¿Sabes qué? ¡Olvídalo! ¡Estás muerto!"</eventtext.piratesecurityofficer.toll.high.haggle.rejected>
+  <eventtext.piratesecurityofficer.lowrep.pay.low>Suplicar (1000 Mk)</eventtext.piratesecurityofficer.lowrep.pay.low>
+  <eventtext.piratesecurityofficer.lowrep.plead.success>"¡JAJAJA hey muchachos! ¡Miren a este llorón de mierda!... Muy bien, me hiciste reir, ¡Entra antes de que cambie de opinión!"</eventtext.piratesecurityofficer.lowrep.plead.success>
+  <eventtext.piratesecurityofficer.lowrep.plead.failure>"¡¿Me estás jodiendo?! ¡Tomaré todo de tu maldito cadaver!"</eventtext.piratesecurityofficer.lowrep.plead.failure>
+  <eventtext.piratesecurityofficer.lowrep.plead.rejected>"¡Tu lamentable excusa de historia no te salvará, no es como que tus compañeros de la coalición te ayudarán aquí! ¡Dí tus últimas palabras!"</eventtext.piratesecurityofficer.lowrep.plead.rejected>
+  <eventtext.piratehavenalarm.breakin>"¡Estos sujetos están intentando colarse! ¡Atrápenlos!"</eventtext.piratehavenalarm.breakin>
+  <eventtext.piratearmorylocked.doorlocked>Intentas apretar el botón, pero la compuerta parece bloqueada. Escuchas una áspera voz desde el otro lado:\n\n"Deberías haber pagado el peaje, tarado. Pero SI DE VERDAD quieres entrar... podemos llegar a un acuerdo..."</eventtext.piratearmorylocked.doorlocked>
+  <eventtext.piratearmorylocked.howmuch>*Suspiras...* "¿Cuánto?"</eventtext.piratearmorylocked.howmuch>
+  <eventtext.piratearmorylocked.500mk>"500 Mk. Tómalo o déjalo."</eventtext.piratearmorylocked.500mk>
+  <eventtext.piratearmorylocked.Pay>"Bien..."</eventtext.piratearmorylocked.Pay>
+  <eventtext.piratearmorylocked.noway>"Ni hablar. Esto es una estafa."</eventtext.piratearmorylocked.noway>
+  <eventtext.piratearmorylocked.dooropens>"Astuto. Espero hacer negocios con usted."</eventtext.piratearmorylocked.dooropens>
+  <eventtext.piratearmorylocked.nomoney>"¿Intentas estafarme? Sin dinero, no hay armas."</eventtext.piratearmorylocked.nomoney>
+  <eventtext.piratearmorylocked.comeback>"¡Ja! Vuelve cuando cambies de parecer. No me iré a ningún lado."</eventtext.piratearmorylocked.comeback>
+  <eventtext.piratearmoryalarm.breakin>"¡Este de aquí intenta robar nuestros suministros!"</eventtext.piratearmoryalarm.breakin>
   <eventtext.piratediversoutpost.meetambusher>As you walk down the hallway, an unsavory individual puts a hand on your shoulder. "Fancy ship you've got there. A real beauty... Bet it cost you a little fortune."</eventtext.piratediversoutpost.meetambusher>
   <eventtext.piratediversoutpost.agree>"It's just a hunk of junk."</eventtext.piratediversoutpost.agree>
   <eventtext.piratediversoutpost.buggeroff>"Bugger off."</eventtext.piratediversoutpost.buggeroff>
