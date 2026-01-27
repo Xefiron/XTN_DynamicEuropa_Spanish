@@ -403,35 +403,35 @@
   <eventtext.piratearmorylocked.nomoney>"¿Intentas estafarme? Sin dinero, no hay armas."</eventtext.piratearmorylocked.nomoney>
   <eventtext.piratearmorylocked.comeback>"¡Ja! Vuelve cuando cambies de parecer. No me iré a ningún lado."</eventtext.piratearmorylocked.comeback>
   <eventtext.piratearmoryalarm.breakin>"¡Este de aquí intenta robar nuestros suministros!"</eventtext.piratearmoryalarm.breakin>
-  <eventtext.piratediversoutpost.meetambusher>As you walk down the hallway, an unsavory individual puts a hand on your shoulder. "Fancy ship you've got there. A real beauty... Bet it cost you a little fortune."</eventtext.piratediversoutpost.meetambusher>
-  <eventtext.piratediversoutpost.agree>"It's just a hunk of junk."</eventtext.piratediversoutpost.agree>
-  <eventtext.piratediversoutpost.buggeroff>"Bugger off."</eventtext.piratediversoutpost.buggeroff>
-  <eventtext.piratediversoutpost.Iwascaptain>The man keeps following you. "Used to be a captain you know? Mine was sunk by one of those coalition dogs. Tried to run a blockade with a shipment of the good stuff, turns out Dugongs aren't known for their speed."</eventtext.piratediversoutpost.Iwascaptain>
-  <eventtext.piratediversoutpost.Iwascaptain2>The self-proclaimed pilot spits on the floor. "Took a straight hit by a railgun. Tore a hole in the amidships, but somehow me and my crew limped back to this rat hole of a station. Bet if I had yours, things would've been different..."</eventtext.piratediversoutpost.Iwascaptain2>
-  <eventtext.piratediversoutpost.goodluck>"Tough luck mate, I wish you the best."</eventtext.piratediversoutpost.goodluck>
-  <eventtext.piratediversoutpost.dontcare>"Not my problem."</eventtext.piratediversoutpost.dontcare>
-  <eventtext.piratediversoutpost.offersbooze>The involuntary landlubber is back again, and pulls something from under his coat. For a brief moment you think it's a gun, but it's just a bottle of rum. "You know what, I've got a good feeling business will resume. Pulled these babies from my personal stash. This one is on the house!" </eventtext.piratediversoutpost.offersbooze>
-  <eventtext.piratediversoutpost.takebooze>"Never say no to free booze."</eventtext.piratediversoutpost.takebooze>
-  <eventtext.piratediversoutpost.getthehelloff>"Get the hell off me. You're not my buddy, pal."</eventtext.piratediversoutpost.getthehelloff>
-  <eventtext.piratediversoutpost.drinkup>"Drink up, and make sure to share with aaaaall your crew! To the last drop. Me, I won't be staying here for long..." \n\nYou catch a glimpse of a sinister chuckle.</eventtext.piratediversoutpost.drinkup>
-  <eventtext.piratediversoutpost.dontgetalong>"Whatever. Guess we just don't get along. Don't worry, I'll be leaving soon..."</eventtext.piratediversoutpost.dontgetalong>
-  <eventtext.piratediversoutpost.soundinairlock>There's a loud sound in the airlock...</eventtext.piratediversoutpost.soundinairlock>
-  <eventtext.piratediversoutpost.takeover>"We're taking over this ship!"</eventtext.piratediversoutpost.takeover>
-  <eventtext.piratemissioninformant.interact>"Hm? Ye lookin' for work ye say? Lemme tell ya somethin'! Ain't no administration service here! But... Got me a lead about a coalition transport passing near here and I'm not sure if me crew is ready for it. Imma sell it to ya if ye got the cash!"</eventtext.piratemissioninformant.interact>
-  <eventtext.piratemissioninformant.option.buy>Buy (1000mk)</eventtext.piratemissioninformant.option.buy>
-  <eventtext.piratemissioninformant.option.buy.success>"Hah great! Lemme show ya where they gonna pass!"</eventtext.piratemissioninformant.option.buy.success>
-  <eventtext.piratemissioninformant.option.buy.failure>"Ain't gonna give it to ya for free dumbass! Come back when ye got the scratch!"</eventtext.piratemissioninformant.option.buy.failure>
-  <EventText.DEgotoblockade.c1>"COALITION BOUNTY ISSUED", the discolored and damaged posters list off sites of destruction and infestation, seems like the coalition is in over their heads. You can only make out one set of coordinates.</EventText.DEgotoblockade.c1>
-  <EventText.DEgotoblockade.o1>A tax free paycheck couldn't hurt...</EventText.DEgotoblockade.o1>
-  <eventtext.missionevent_lair.c1>“There is a massive lair nearby bubbling over with more and more creatures by the minute, if you can take it out there is a reward in it for you!”</eventtext.missionevent_lair.c1>
-  <EventText.missionevent_lair.o1>Understood</EventText.missionevent_lair.o1>
-  <eventtext.survey.interact>This automated station scans the surrounding area for minerals. A message is displayed on the terminal: \n\n"PAY 1000MK TO ACCESS THIS UNIT'S SCANNING DATABASE"</eventtext.survey.interact>
-  <eventtext.survey.payup>Transfer the money</eventtext.survey.payup>
-  <eventtext.survey.givemissions>"ACCESS GRANTED. POTENTIAL MINERAL DEPOSITS CAN BE FOUND AT THESE LOCATIONS..."</eventtext.survey.givemissions>
-  <eventtext.survey.nomoney>"INSUFFICIENT FUNDS. ACCESS DENIED"</eventtext.survey.nomoney>
-  <eventtext.constructionrecipe.recipe>A panel displays a message from the outpost's taskmaster. \n\n"CONSTRUCTION UNITS REQUESTED. MAY BE FABRICATED AND PACKAGED USING THE FOLLOWING MATERIALS:" \n\n-Lead \n-Copper \n-Steel \n-Iron \n-Zinc \n-Aluminium</eventtext.constructionrecipe.recipe>
-  <eventtext.Constructionprogress.starterdialogue>"Hey you! We're running short on materials and the next delivery has been delayed a few days. We don't want to spend more time on this construction site than we have to... You don't happen to have 5 crates of building materials you could spare? We'll pay for them of course!"</eventtext.Constructionprogress.starterdialogue>
-  <eventtext.Constructionprogress.wehavecrates>"We do. Let me go grab them for you."</eventtext.Constructionprogress.wehavecrates>
+  <eventtext.piratediversoutpost.meetambusher>Mientras caminas por el pasillo, un individuo desagradable te pone una mano sobre el hombro. "Bonito submarino tienes ahí. Una auténtica belleza... Apuesto a que te costó una pequeña fortuna."</eventtext.piratediversoutpost.meetambusher>
+  <eventtext.piratediversoutpost.agree>"Es solo un pedazo de chatarra."</eventtext.piratediversoutpost.agree>
+  <eventtext.piratediversoutpost.buggeroff>"Largarse."</eventtext.piratediversoutpost.buggeroff>
+  <eventtext.piratediversoutpost.Iwascaptain>El hombre continúa siguiéndote. "¿Sabes?, Solía ser un capitán. El mío fue hundido por uno de esos perros de la coalición. Traté de romper un bloqueo mientras llevaba un muy buen cargamento, pero resultó que los Dugong no son conocidos por su velocidad."</eventtext.piratediversoutpost.Iwascaptain>
+  <eventtext.piratediversoutpost.Iwascaptain2>El autoproclamado piloto escupe al suelo. "Un impacto directo de un cañón de riel. Abrieron un agujero en el centro de la nave, pero de alguna manera mi tripulación y yo escapamos de regreso a este nido de ratas. Apuesto que si tuviera el tuyo, las cosas habrían sido diferentes..."</eventtext.piratediversoutpost.Iwascaptain2>
+  <eventtext.piratediversoutpost.goodluck>"Mala suerte amigo, te deseo lo mejor."</eventtext.piratediversoutpost.goodluck>
+  <eventtext.piratediversoutpost.dontcare>"No es mi problema."</eventtext.piratediversoutpost.dontcare>
+  <eventtext.piratediversoutpost.offersbooze>El involuntario marinero de agua dulce regresa nuevamente, y saca algo de debajo de su abrigo. Por un instante crees que es un arma, pero es solo una botella de Ron. "¿Sábes qué? Tengo el presentimiento de que volveré al negocio. Saqué estas bellezas de mi alijo personal. ¡Esta ronda va por mi cuenta!"</eventtext.piratediversoutpost.offersbooze>
+  <eventtext.piratediversoutpost.takebooze>"Nunca dices que no a un licór gratis."</eventtext.piratediversoutpost.takebooze>
+  <eventtext.piratediversoutpost.getthehelloff>"Apártate de mi. No soy tu amigo, colega."</eventtext.piratediversoutpost.getthehelloff>
+  <eventtext.piratediversoutpost.drinkup>"¡Bebe y compartelo con tooooda tu tripulación! Hasta la última gota. Yo, no me quedaré aquí mucho tiempo..."\n\nAlcanzas a notar una risa siniestra.</eventtext.piratediversoutpost.drinkup>
+  <eventtext.piratediversoutpost.dontgetalong>"Como sea. Supongo que no nos llevamos muy bien. No te preocupes, me iré pronto..."</eventtext.piratediversoutpost.dontgetalong>
+  <eventtext.piratediversoutpost.soundinairlock>Un estruendo se escucha desde la esclusa de aire...</eventtext.piratediversoutpost.soundinairlock>
+  <eventtext.piratediversoutpost.takeover>"¡Nos quedamos este submarino!"</eventtext.piratediversoutpost.takeover>
+  <eventtext.piratemissioninformant.interact>"Hmm.. ¿Buscando un trabajo dices? ¡Déjame decirte algo, aquí no hay servicio administrativo! Pero... Tengo una pista de un transporte de la coalición que pasará por aquí cerca, y no estoy seguro de si mi tripulación está preparada para ello. ¡Te lo vendó si tienes el efectivo!"</eventtext.piratemissioninformant.interact>
+  <eventtext.piratemissioninformant.option.buy>Comprar (1000 Mk)</eventtext.piratemissioninformant.option.buy>
+  <eventtext.piratemissioninformant.option.buy.success>"¡Grandioso! ¡Déjame mostrarte por dónde van a pasar!"</eventtext.piratemissioninformant.option.buy.success>
+  <eventtext.piratemissioninformant.option.buy.failure>"¡No te lo daré gratis, idiota! Vuelve cuando tengas el dinero."</eventtext.piratemissioninformant.option.buy.failure>
+  <EventText.DEgotoblockade.c1>"RECOMPENSA DE LA COALICIÓN EMITIDA", Los carteles rotos y descoloridos listan sitios de destrucción e infestación. Parece ser que la Coalición está sobrepasada. Alcanzas a distinguir un conjunto de coordenadas.</EventText.DEgotoblockade.c1>
+  <EventText.DEgotoblockade.o1>Un cheque libre de impuestos no viene mal...</EventText.DEgotoblockade.o1>
+  <eventtext.missionevent_lair.c1>“¡Una enorme guarida cercana rebosa de más y más criaturas cada minuto, sí puedes hacerte cargo hay una recompensa esperando!”</eventtext.missionevent_lair.c1>
+  <EventText.missionevent_lair.o1>Entendido</EventText.missionevent_lair.o1>
+  <eventtext.survey.interact>Esta estación automatizada escanéa el área circundante en busca de minerales. Un mensaje se despliega en la terminal:\n\n"PAGA 1000MK PARA ACCEDER A LA BASE DE DATOS DE ESTA UNIDAD DE ESCANÉO"</eventtext.survey.interact>
+  <eventtext.survey.payup>Transferir el dinero.</eventtext.survey.payup>
+  <eventtext.survey.givemissions>"ACCESO PERMITIDO. POTENCIALES DEPÓSITOS DE MINERALES PUEDEN SER ENCONTRADOS EN ESTAS UBICACIONES..."</eventtext.survey.givemissions>
+  <eventtext.survey.nomoney>"FONDOS INSUFICIENTES. ACCESO DENEGADO."</eventtext.survey.nomoney>
+  <eventtext.constructionrecipe.recipe>Un panel muestra un mensaje del Encargado del puesto.\n\n"SE SOLICITAN UNIDADES DE CONSTRUCCIÓN. PUEDEN SER FABRICADOS Y EMBALADOS USANDO LOS SIGUIENTES MATERIALES:"\n\n-Plomo \n-Cobre \n-Acero \n-Hierro \n-Zinc \n-Aluminio</eventtext.constructionrecipe.recipe>
+  <eventtext.Constructionprogress.starterdialogue>"¡Oye, tú! Nos estamos quedando sin materiales y la siguiente entrega se ha retrasado unos días. No queremos pasar más tiempo en este sitio de construcción del que ya hemos estado... De casualidad, ¿No te sobran unas 5 cajas de materiales de construcción? ¡Pagaremos por ellas, por supuesto!"</eventtext.Constructionprogress.starterdialogue>
+  <eventtext.Constructionprogress.wehavecrates>"Ténemos. Déjame ir a buscarlas."</eventtext.Constructionprogress.wehavecrates>
   <eventtext.Constructionprogress.speaktomeagain>"Oh wonderful! Speak to me again once you're done delivering them to the cargo unit over there to collect your payment."</eventtext.Constructionprogress.speaktomeagain>
   <eventtext.Constructionprogress.letmecheck>"Let me check our cargo."</eventtext.Constructionprogress.letmecheck>
   <eventtext.Constructionprogress.ifyoufindcrates>"Alright! If you happen to find some, deliver them to the cargo unit over there and talk to me once you're done."</eventtext.Constructionprogress.ifyoufindcrates>
